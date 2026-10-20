@@ -1,0 +1,93 @@
+{
+  "so_luot": "15,356",
+  "doppler_ka": "359.2 kHz",
+  "doppler_troi": "16.9 kHz/s",
+  "quan_the": "46",
+  "doc_duoc": "27",
+  "ma_hoa": "26",
+  "vet_quy_dao": "0/26",
+  "doppler_bien_thien": "0/26",
+  "awgn": "16/26",
+  "chuan_3gpp": "4/26",
+  "sup_vong_ho": "17.96 dB",
+  "muc_kiem": "12",
+  "chuan_neo": "3GPP TR 38.821",
+  "bang_kiem_ke": {
+    "cot": [
+      "mã",
+      "hiệu ứng NTN hoặc mô hình kênh",
+      "nêu ra",
+      "có trong đánh giá"
+    ],
+    "hang": [
+      [
+        "CH_AWGN",
+        "AWGN channel",
+        "1",
+        "16"
+      ],
+      [
+        "DOPPLER",
+        "Doppler shift",
+        "2",
+        "11"
+      ],
+      [
+        "CH_3GPP",
+        "Standardised NTN model",
+        "0",
+        "4"
+      ],
+      [
+        "VISIBILITY",
+        "Finite visibility window",
+        "2",
+        "3"
+      ],
+      [
+        "CH_TRACE",
+        "Real orbital trace",
+        "0",
+        "0"
+      ],
+      [
+        "DOPPLER_RATE",
+        "Time-varying Doppler",
+        "0",
+        "0"
+      ]
+    ],
+    "chu_thich": "Cột cuối là số công trình THỰC SỰ đo dưới hiệu ứng đó. Bảng đầy đủ mười hai dòng nằm trong bài.",
+    "nhan_hang": 4
+  },
+  "bang_lech": {
+    "cot": [
+      "điều kiện đánh giá",
+      "huấn luyện một điểm SNR",
+      "huấn luyện ngẫu nhiên hoá"
+    ],
+    "hang": [
+      [
+        "SNR = 10 dB (training point)",
+        "28.04",
+        "24.28"
+      ],
+      [
+        "SNR = 4 dB (low end of pass)",
+        "24.69",
+        "22.91"
+      ],
+      [
+        "SNR = 16 dB (high end of pass)",
+        "29.31",
+        "24.70"
+      ],
+      [
+        "open-loop CFO ε = 10⁻³",
+        "10.08",
+        "23.86"
+      ]
+    ],
+    "chu_thich": "Trung vị qua các lần chạy. Đơn vị là chất lượng ảnh khôi phục."
+  }
+}

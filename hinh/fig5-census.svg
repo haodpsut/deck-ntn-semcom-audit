@@ -1,0 +1,492 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 582.780527 249.364188" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T23:00:25.359000</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="mfig5census-figure_1">
+  <g id="mfig5census-patch_1">
+   <path d="M 0 249.364188 
+L 582.780527 249.364188 
+L 582.780527 0 
+L 0 0 
+L 0 249.364188 
+z
+" style="fill: none"/>
+  </g>
+  <g id="mfig5census-axes_1">
+   <g id="mfig5census-patch_2">
+    <path d="M 223.575781 198.468 
+L 575.580527 198.468 
+L 575.580527 7.2 
+L 223.575781 7.2 
+L 223.575781 198.468 
+z
+" style="fill: none"/>
+   </g>
+   <g id="mfig5census-patch_3">
+    <path d="M 223.575781 189.774 
+L 223.575781 189.774 
+L 223.575781 184.442075 
+L 223.575781 184.442075 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #555555; opacity: 0.55"/>
+   </g>
+   <g id="mfig5census-patch_4">
+    <path d="M 223.575781 174.963097 
+L 223.575781 174.963097 
+L 223.575781 169.631172 
+L 223.575781 169.631172 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #555555; opacity: 0.55"/>
+   </g>
+   <g id="mfig5census-patch_5">
+    <path d="M 223.575781 160.152194 
+L 250.653069 160.152194 
+L 250.653069 154.820269 
+L 223.575781 154.820269 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #555555; opacity: 0.55"/>
+   </g>
+   <g id="mfig5census-patch_6">
+    <path d="M 223.575781 145.341291 
+L 264.191713 145.341291 
+L 264.191713 140.009366 
+L 223.575781 140.009366 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #555555; opacity: 0.55"/>
+   </g>
+   <g id="mfig5census-patch_7">
+    <path d="M 223.575781 130.530388 
+L 223.575781 130.530388 
+L 223.575781 125.198463 
+L 223.575781 125.198463 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #555555; opacity: 0.55"/>
+   </g>
+   <g id="mfig5census-patch_8">
+    <path d="M 223.575781 115.719486 
+L 250.653069 115.719486 
+L 250.653069 110.38756 
+L 223.575781 110.38756 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #555555; opacity: 0.55"/>
+   </g>
+   <g id="mfig5census-patch_9">
+    <path d="M 223.575781 100.908583 
+L 250.653069 100.908583 
+L 250.653069 95.576658 
+L 223.575781 95.576658 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #555555; opacity: 0.55"/>
+   </g>
+   <g id="mfig5census-patch_10">
+    <path d="M 223.575781 86.09768 
+L 277.730358 86.09768 
+L 277.730358 80.765755 
+L 223.575781 80.765755 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #555555; opacity: 0.55"/>
+   </g>
+   <g id="mfig5census-patch_11">
+    <path d="M 223.575781 71.286777 
+L 223.575781 71.286777 
+L 223.575781 65.954852 
+L 223.575781 65.954852 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #555555; opacity: 0.55"/>
+   </g>
+   <g id="mfig5census-patch_12">
+    <path d="M 223.575781 56.475874 
+L 237.114425 56.475874 
+L 237.114425 51.143949 
+L 223.575781 51.143949 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #555555; opacity: 0.55"/>
+   </g>
+   <g id="mfig5census-patch_13">
+    <path d="M 223.575781 41.664971 
+L 250.653069 41.664971 
+L 250.653069 36.333046 
+L 223.575781 36.333046 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #555555; opacity: 0.55"/>
+   </g>
+   <g id="mfig5census-patch_14">
+    <path d="M 223.575781 26.854068 
+L 237.114425 26.854068 
+L 237.114425 21.522143 
+L 223.575781 21.522143 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #555555; opacity: 0.55"/>
+   </g>
+   <g id="mfig5census-patch_15">
+    <path d="M 223.575781 184.145857 
+L 223.575781 184.145857 
+L 223.575781 178.813932 
+L 223.575781 178.813932 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #2c6e9b"/>
+   </g>
+   <g id="mfig5census-patch_16">
+    <path d="M 223.575781 169.334954 
+L 223.575781 169.334954 
+L 223.575781 164.003029 
+L 223.575781 164.003029 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #2c6e9b"/>
+   </g>
+   <g id="mfig5census-patch_17">
+    <path d="M 223.575781 154.524051 
+L 264.191713 154.524051 
+L 264.191713 149.192126 
+L 223.575781 149.192126 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #2c6e9b"/>
+   </g>
+   <g id="mfig5census-patch_18">
+    <path d="M 223.575781 139.713148 
+L 264.191713 139.713148 
+L 264.191713 134.381223 
+L 223.575781 134.381223 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #2c6e9b"/>
+   </g>
+   <g id="mfig5census-patch_19">
+    <path d="M 223.575781 124.902245 
+L 277.730358 124.902245 
+L 277.730358 119.57032 
+L 223.575781 119.57032 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #2c6e9b"/>
+   </g>
+   <g id="mfig5census-patch_20">
+    <path d="M 223.575781 110.091342 
+L 304.807646 110.091342 
+L 304.807646 104.759417 
+L 223.575781 104.759417 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #2c6e9b"/>
+   </g>
+   <g id="mfig5census-patch_21">
+    <path d="M 223.575781 95.28044 
+L 318.34629 95.28044 
+L 318.34629 89.948514 
+L 223.575781 89.948514 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #2c6e9b"/>
+   </g>
+   <g id="mfig5census-patch_22">
+    <path d="M 223.575781 80.469537 
+L 331.884934 80.469537 
+L 331.884934 75.137612 
+L 223.575781 75.137612 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #2c6e9b"/>
+   </g>
+   <g id="mfig5census-patch_23">
+    <path d="M 223.575781 65.658634 
+L 331.884934 65.658634 
+L 331.884934 60.326709 
+L 223.575781 60.326709 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #2c6e9b"/>
+   </g>
+   <g id="mfig5census-patch_24">
+    <path d="M 223.575781 50.847731 
+L 345.423578 50.847731 
+L 345.423578 45.515806 
+L 223.575781 45.515806 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #2c6e9b"/>
+   </g>
+   <g id="mfig5census-patch_25">
+    <path d="M 223.575781 36.036828 
+L 372.500866 36.036828 
+L 372.500866 30.704903 
+L 223.575781 30.704903 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #2c6e9b"/>
+   </g>
+   <g id="mfig5census-patch_26">
+    <path d="M 223.575781 21.225925 
+L 440.194086 21.225925 
+L 440.194086 15.894 
+L 223.575781 15.894 
+z
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: #2c6e9b"/>
+   </g>
+   <g id="mfig5census-matplotlib.axis_1">
+    <g id="mfig5census-xtick_1">
+     <g id="mfig5census-line2d_1">
+      <defs>
+       <path id="mfig5census-m4ffa3afaf0" d="M 0 0 
+L 0 -3.5 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfig5census-m4ffa3afaf0" x="223.575781" y="198.468" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_1">
+      <text style="font-size:17.6px; text-anchor: middle" x="223.575781" y="215.34125" transform="rotate(-0 223.575781 215.34125)">0</text>
+     </g>
+    </g>
+    <g id="mfig5census-xtick_2">
+     <g id="mfig5census-line2d_2">
+      <g>
+       <use xlink:href="#mfig5census-m4ffa3afaf0" x="291.269002" y="198.468" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_2">
+      <text style="font-size:17.6px; text-anchor: middle" x="291.269002" y="215.34125" transform="rotate(-0 291.269002 215.34125)">5</text>
+     </g>
+    </g>
+    <g id="mfig5census-xtick_3">
+     <g id="mfig5census-line2d_3">
+      <g>
+       <use xlink:href="#mfig5census-m4ffa3afaf0" x="358.962222" y="198.468" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_3">
+      <text style="font-size:17.6px; text-anchor: middle" x="358.962222" y="215.34125" transform="rotate(-0 358.962222 215.34125)">10</text>
+     </g>
+    </g>
+    <g id="mfig5census-xtick_4">
+     <g id="mfig5census-line2d_4">
+      <g>
+       <use xlink:href="#mfig5census-m4ffa3afaf0" x="426.655442" y="198.468" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_4">
+      <text style="font-size:17.6px; text-anchor: middle" x="426.655442" y="215.34125" transform="rotate(-0 426.655442 215.34125)">15</text>
+     </g>
+    </g>
+    <g id="mfig5census-xtick_5">
+     <g id="mfig5census-line2d_5">
+      <g>
+       <use xlink:href="#mfig5census-m4ffa3afaf0" x="494.348663" y="198.468" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_5">
+      <text style="font-size:17.6px; text-anchor: middle" x="494.348663" y="215.34125" transform="rotate(-0 494.348663 215.34125)">20</text>
+     </g>
+    </g>
+    <g id="mfig5census-xtick_6">
+     <g id="mfig5census-line2d_6">
+      <g>
+       <use xlink:href="#mfig5census-m4ffa3afaf0" x="562.041883" y="198.468" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_6">
+      <text style="font-size:17.6px; text-anchor: middle" x="562.041883" y="215.34125" transform="rotate(-0 562.041883 215.34125)">25</text>
+     </g>
+    </g>
+    <g id="mfig5census-text_7">
+     <text style="font-size:19.8px; text-anchor: middle" x="399.578154" y="238.046406" transform="rotate(-0 399.578154 238.046406)">works out of 26</text>
+    </g>
+   </g>
+   <g id="mfig5census-matplotlib.axis_2">
+    <g id="mfig5census-ytick_1">
+     <g id="mfig5census-line2d_7">
+      <defs>
+       <path id="mfig5census-m1601dc5cbd" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfig5census-m1601dc5cbd" x="223.575781" y="184.293966" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_8">
+      <text style="font-size:16.5px; text-anchor: end" x="220.075781" y="190.562677" transform="rotate(-0 220.075781 190.562677)">Time-varying Doppler</text>
+     </g>
+    </g>
+    <g id="mfig5census-ytick_2">
+     <g id="mfig5census-line2d_8">
+      <g>
+       <use xlink:href="#mfig5census-m1601dc5cbd" x="223.575781" y="169.483063" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_9">
+      <text style="font-size:16.5px; text-anchor: end" x="220.075781" y="175.751774" transform="rotate(-0 220.075781 175.751774)">Real orbital trace</text>
+     </g>
+    </g>
+    <g id="mfig5census-ytick_3">
+     <g id="mfig5census-line2d_9">
+      <g>
+       <use xlink:href="#mfig5census-m1601dc5cbd" x="223.575781" y="154.67216" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_10">
+      <text style="font-size:16.5px; text-anchor: end" x="220.075781" y="160.940871" transform="rotate(-0 220.075781 160.940871)">Finite visibility window</text>
+     </g>
+    </g>
+    <g id="mfig5census-ytick_4">
+     <g id="mfig5census-line2d_10">
+      <g>
+       <use xlink:href="#mfig5census-m1601dc5cbd" x="223.575781" y="139.861257" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_11">
+      <text style="font-size:16.5px; text-anchor: end" x="220.075781" y="146.129968" transform="rotate(-0 220.075781 146.129968)">On-board compute limit</text>
+     </g>
+    </g>
+    <g id="mfig5census-ytick_5">
+     <g id="mfig5census-line2d_11">
+      <g>
+       <use xlink:href="#mfig5census-m1601dc5cbd" x="223.575781" y="125.050354" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_12">
+      <text style="font-size:16.5px; text-anchor: end" x="220.075781" y="131.319065" transform="rotate(-0 220.075781 131.319065)">Standardised NTN model</text>
+     </g>
+    </g>
+    <g id="mfig5census-ytick_6">
+     <g id="mfig5census-line2d_12">
+      <g>
+       <use xlink:href="#mfig5census-m1601dc5cbd" x="223.575781" y="110.239451" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_13">
+      <text style="font-size:16.5px; text-anchor: end" x="220.075781" y="116.508162" transform="rotate(-0 220.075781 116.508162)">Atmospheric attenuation</text>
+     </g>
+    </g>
+    <g id="mfig5census-ytick_7">
+     <g id="mfig5census-line2d_13">
+      <g>
+       <use xlink:href="#mfig5census-m1601dc5cbd" x="223.575781" y="95.428549" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_14">
+      <text style="font-size:16.5px; text-anchor: end" x="220.075781" y="101.697259" transform="rotate(-0 220.075781 101.697259)">SNR sweep / mismatch</text>
+     </g>
+    </g>
+    <g id="mfig5census-ytick_8">
+     <g id="mfig5census-line2d_14">
+      <g>
+       <use xlink:href="#mfig5census-m1601dc5cbd" x="223.575781" y="80.617646" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_15">
+      <text style="font-size:16.5px; text-anchor: end" x="220.075781" y="86.886357" transform="rotate(-0 220.075781 86.886357)">Propagation delay</text>
+     </g>
+    </g>
+    <g id="mfig5census-ytick_9">
+     <g id="mfig5census-line2d_15">
+      <g>
+       <use xlink:href="#mfig5census-m1601dc5cbd" x="223.575781" y="65.806743" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_16">
+      <text style="font-size:16.5px; text-anchor: end" x="220.075781" y="72.075454" transform="rotate(-0 220.075781 72.075454)">Statistical fading</text>
+     </g>
+    </g>
+    <g id="mfig5census-ytick_10">
+     <g id="mfig5census-line2d_16">
+      <g>
+       <use xlink:href="#mfig5census-m1601dc5cbd" x="223.575781" y="50.99584" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_17">
+      <text style="font-size:16.5px; text-anchor: end" x="220.075781" y="57.264551" transform="rotate(-0 220.075781 57.264551)">Elevation-dependent loss</text>
+     </g>
+    </g>
+    <g id="mfig5census-ytick_11">
+     <g id="mfig5census-line2d_17">
+      <g>
+       <use xlink:href="#mfig5census-m1601dc5cbd" x="223.575781" y="36.184937" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_18">
+      <text style="font-size:16.5px; text-anchor: end" x="220.075781" y="42.453648" transform="rotate(-0 220.075781 42.453648)">Doppler shift</text>
+     </g>
+    </g>
+    <g id="mfig5census-ytick_12">
+     <g id="mfig5census-line2d_18">
+      <g>
+       <use xlink:href="#mfig5census-m1601dc5cbd" x="223.575781" y="21.374034" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig5census-text_19">
+      <text style="font-size:16.5px; text-anchor: end" x="220.075781" y="27.642745" transform="rotate(-0 220.075781 27.642745)">AWGN channel</text>
+     </g>
+    </g>
+   </g>
+   <g id="mfig5census-line2d_19">
+    <path d="M 575.580527 198.468 
+L 575.580527 7.2 
+" clip-path="url(#mfig5census-p9c247640ae)" style="fill: none; stroke-dasharray: 0.6,0.99; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.6"/>
+   </g>
+   <g id="mfig5census-patch_27">
+    <path d="M 223.575781 198.468 
+L 223.575781 7.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig5census-patch_28">
+    <path d="M 223.575781 198.468 
+L 575.580527 198.468 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig5census-text_20">
+    <text style="fill: #2c6e9b; font: 700 16.5px 'DejaVu Serif', serif; text-anchor: start" x="228.314307" y="186.032863" transform="rotate(-0 228.314307 186.032863)">0</text>
+   </g>
+   <g id="mfig5census-text_21">
+    <text style="fill: #555555; font-size:16.5px; text-anchor: start" x="228.314307" y="191.661006" transform="rotate(-0 228.314307 191.661006)">0</text>
+   </g>
+   <g id="mfig5census-text_22">
+    <text style="fill: #2c6e9b; font: 700 16.5px 'DejaVu Serif', serif; text-anchor: start" x="228.314307" y="171.22196" transform="rotate(-0 228.314307 171.22196)">0</text>
+   </g>
+   <g id="mfig5census-text_23">
+    <text style="fill: #555555; font-size:16.5px; text-anchor: start" x="228.314307" y="176.850103" transform="rotate(-0 228.314307 176.850103)">0</text>
+   </g>
+   <g id="mfig5census-text_24">
+    <text style="fill: #555555; font-size:16.5px; text-anchor: start" x="228.314307" y="132.417395" transform="rotate(-0 228.314307 132.417395)">0</text>
+   </g>
+   <g id="mfig5census-text_25">
+    <text style="fill: #555555; font-size:16.5px; text-anchor: start" x="228.314307" y="73.173783" transform="rotate(-0 228.314307 73.173783)">0</text>
+   </g>
+   <g id="mfig5census-legend_1">
+    <g id="mfig5census-patch_29">
+     <path d="M 366.655371 168.333 
+L 381.655371 168.333 
+L 381.655371 163.083 
+L 366.655371 163.083 
+z
+" style="fill: #555555; opacity: 0.55"/>
+    </g>
+    <g id="mfig5census-text_26">
+     <text style="font-size:16.5px; text-anchor: start" x="387.655371" y="168.333" transform="rotate(-0 387.655371 168.333)">mentioned in framing</text>
+    </g>
+    <g id="mfig5census-patch_30">
+     <path d="M 366.655371 188.286516 
+L 381.655371 188.286516 
+L 381.655371 183.036516 
+L 366.655371 183.036516 
+z
+" style="fill: #2c6e9b"/>
+    </g>
+    <g id="mfig5census-text_27">
+     <text style="font-size:16.5px; text-anchor: start" x="387.655371" y="188.286516" transform="rotate(-0 387.655371 188.286516)">present in evaluation</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="mfig5census-p9c247640ae">
+   <rect x="223.575781" y="7.2" width="352.004746" height="191.268"/>
+  </clipPath>
+ </defs>
+</svg>

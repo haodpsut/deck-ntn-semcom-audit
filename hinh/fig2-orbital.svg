@@ -1,0 +1,1460 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 506.381632 203.892304" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T23:00:23.801044</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="mfig2orbita-figure_1">
+  <g id="mfig2orbita-patch_1">
+   <path d="M 0 203.892304 
+L 506.381632 203.892304 
+L 506.381632 0 
+L 0 0 
+L 0 203.892304 
+z
+" style="fill: none"/>
+  </g>
+  <g id="mfig2orbita-axes_1">
+   <g id="mfig2orbita-patch_2">
+    <path d="M 67.456688 152.714586 
+L 174.729288 152.714586 
+L 174.729288 8.016186 
+L 67.456688 8.016186 
+L 67.456688 152.714586 
+z
+" style="fill: none"/>
+   </g>
+   <g id="mfig2orbita-patch_3">
+    <path d="M 72.332715 152.714586 
+L 74.654633 152.714586 
+L 74.654633 150.769715 
+L 72.332715 150.769715 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_4">
+    <path d="M 74.654633 152.714586 
+L 76.97655 152.714586 
+L 76.97655 150.38074 
+L 74.654633 150.38074 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_5">
+    <path d="M 76.97655 152.714586 
+L 79.298468 152.714586 
+L 79.298468 150.769715 
+L 76.97655 150.769715 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_6">
+    <path d="M 79.298468 152.714586 
+L 81.620386 152.714586 
+L 81.620386 149.991766 
+L 79.298468 149.991766 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_7">
+    <path d="M 81.620386 152.714586 
+L 83.942304 152.714586 
+L 83.942304 149.991766 
+L 81.620386 149.991766 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_8">
+    <path d="M 83.942304 152.714586 
+L 86.264221 152.714586 
+L 86.264221 150.38074 
+L 83.942304 150.38074 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_9">
+    <path d="M 86.264221 152.714586 
+L 88.586139 152.714586 
+L 88.586139 146.879973 
+L 86.264221 146.879973 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_10">
+    <path d="M 88.586139 152.714586 
+L 90.908057 152.714586 
+L 90.908057 148.046895 
+L 88.586139 148.046895 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_11">
+    <path d="M 90.908057 152.714586 
+L 93.229975 152.714586 
+L 93.229975 146.102024 
+L 90.908057 146.102024 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_12">
+    <path d="M 93.229975 152.714586 
+L 95.551892 152.714586 
+L 95.551892 146.102024 
+L 93.229975 146.102024 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_13">
+    <path d="M 95.551892 152.714586 
+L 97.87381 152.714586 
+L 97.87381 146.102024 
+L 95.551892 146.102024 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_14">
+    <path d="M 97.87381 152.714586 
+L 100.195728 152.714586 
+L 100.195728 146.879973 
+L 97.87381 146.879973 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_15">
+    <path d="M 100.195728 152.714586 
+L 102.517646 152.714586 
+L 102.517646 146.102024 
+L 100.195728 146.102024 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_16">
+    <path d="M 102.517646 152.714586 
+L 104.839563 152.714586 
+L 104.839563 142.990231 
+L 102.517646 142.990231 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_17">
+    <path d="M 104.839563 152.714586 
+L 107.161481 152.714586 
+L 107.161481 143.768179 
+L 104.839563 143.768179 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_18">
+    <path d="M 107.161481 152.714586 
+L 109.483399 152.714586 
+L 109.483399 144.546127 
+L 107.161481 144.546127 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_19">
+    <path d="M 109.483399 152.714586 
+L 111.805317 152.714586 
+L 111.805317 143.379205 
+L 109.483399 143.379205 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_20">
+    <path d="M 111.805317 152.714586 
+L 114.127235 152.714586 
+L 114.127235 138.711515 
+L 111.805317 138.711515 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_21">
+    <path d="M 114.127235 152.714586 
+L 116.449152 152.714586 
+L 116.449152 144.546127 
+L 114.127235 144.546127 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_22">
+    <path d="M 116.449152 152.714586 
+L 118.77107 152.714586 
+L 118.77107 139.878437 
+L 116.449152 139.878437 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_23">
+    <path d="M 118.77107 152.714586 
+L 121.092988 152.714586 
+L 121.092988 135.988695 
+L 118.77107 135.988695 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_24">
+    <path d="M 121.092988 152.714586 
+L 123.414906 152.714586 
+L 123.414906 138.32254 
+L 121.092988 138.32254 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_25">
+    <path d="M 123.414906 152.714586 
+L 125.736823 152.714586 
+L 125.736823 135.599721 
+L 123.414906 135.599721 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_26">
+    <path d="M 125.736823 152.714586 
+L 128.058741 152.714586 
+L 128.058741 135.988695 
+L 125.736823 135.988695 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_27">
+    <path d="M 128.058741 152.714586 
+L 130.380659 152.714586 
+L 130.380659 138.711515 
+L 128.058741 138.711515 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_28">
+    <path d="M 130.380659 152.714586 
+L 132.702577 152.714586 
+L 132.702577 137.544592 
+L 130.380659 137.544592 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_29">
+    <path d="M 132.702577 152.714586 
+L 135.024494 152.714586 
+L 135.024494 130.932031 
+L 132.702577 130.932031 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_30">
+    <path d="M 135.024494 152.714586 
+L 137.346412 152.714586 
+L 137.346412 132.876902 
+L 135.024494 132.876902 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_31">
+    <path d="M 137.346412 152.714586 
+L 139.66833 152.714586 
+L 139.66833 133.265876 
+L 137.346412 133.265876 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_32">
+    <path d="M 139.66833 152.714586 
+L 141.990248 152.714586 
+L 141.990248 129.765108 
+L 139.66833 129.765108 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_33">
+    <path d="M 141.990248 152.714586 
+L 144.312165 152.714586 
+L 144.312165 120.429727 
+L 141.990248 120.429727 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_34">
+    <path d="M 144.312165 152.714586 
+L 146.634083 152.714586 
+L 146.634083 125.097418 
+L 144.312165 125.097418 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_35">
+    <path d="M 146.634083 152.714586 
+L 148.956001 152.714586 
+L 148.956001 119.262805 
+L 146.634083 119.262805 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_36">
+    <path d="M 148.956001 152.714586 
+L 151.277919 152.714586 
+L 151.277919 116.92896 
+L 148.956001 116.92896 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_37">
+    <path d="M 151.277919 152.714586 
+L 153.599837 152.714586 
+L 153.599837 107.204605 
+L 151.277919 107.204605 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_38">
+    <path d="M 153.599837 152.714586 
+L 155.921754 152.714586 
+L 155.921754 99.425121 
+L 153.599837 99.425121 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_39">
+    <path d="M 155.921754 152.714586 
+L 158.243672 152.714586 
+L 158.243672 78.03154 
+L 155.921754 78.03154 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_40">
+    <path d="M 158.243672 152.714586 
+L 160.56559 152.714586 
+L 160.56559 32.132586 
+L 158.243672 32.132586 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_41">
+    <path d="M 160.56559 152.714586 
+L 162.887508 152.714586 
+L 162.887508 131.321005 
+L 160.56559 131.321005 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_42">
+    <path d="M 162.887508 152.714586 
+L 165.209425 152.714586 
+L 165.209425 135.210747 
+L 162.887508 135.210747 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_43">
+    <path d="M 165.209425 152.714586 
+L 167.531343 152.714586 
+L 167.531343 151.936637 
+L 165.209425 151.936637 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_44">
+    <path d="M 167.531343 152.714586 
+L 169.853261 152.714586 
+L 169.853261 152.325611 
+L 167.531343 152.325611 
+z
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: #2c6e9b; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-matplotlib.axis_1">
+    <g id="mfig2orbita-xtick_1">
+     <g id="mfig2orbita-line2d_1">
+      <defs>
+       <path id="mfig2orbita-m73c34eac87" d="M 0 0 
+L 0 -3.5 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfig2orbita-m73c34eac87" x="111.498763" y="152.714586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_1">
+      <text style="font-size:17.6px; text-anchor: middle" x="111.498763" y="169.587836" transform="rotate(-0 111.498763 169.587836)">200</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-xtick_2">
+     <g id="mfig2orbita-line2d_2">
+      <g>
+       <use xlink:href="#mfig2orbita-m73c34eac87" x="157.175052" y="152.714586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_2">
+      <text style="font-size:17.6px; text-anchor: middle" x="157.175052" y="169.587836" transform="rotate(-0 157.175052 169.587836)">400</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-text_3">
+     <text style="font-size:19.8px; text-anchor: middle" x="121.092988" y="192.292992" transform="rotate(-0 121.092988 192.292992)">Doppler (kHz)</text>
+    </g>
+   </g>
+   <g id="mfig2orbita-matplotlib.axis_2">
+    <g id="mfig2orbita-ytick_1">
+     <g id="mfig2orbita-line2d_3">
+      <defs>
+       <path id="mfig2orbita-md3fca96701" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="67.456688" y="152.714586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_4">
+      <text style="font-size:17.6px; text-anchor: end" x="63.956688" y="159.401211" transform="rotate(-0 63.956688 159.401211)">0</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_2">
+     <g id="mfig2orbita-line2d_4">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="67.456688" y="133.265876" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_5">
+      <text style="font-size:17.6px; text-anchor: end" x="63.956688" y="139.952501" transform="rotate(-0 63.956688 139.952501)">50</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_3">
+     <g id="mfig2orbita-line2d_5">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="67.456688" y="113.817166" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_6">
+      <text style="font-size:17.6px; text-anchor: end" x="63.956688" y="120.503791" transform="rotate(-0 63.956688 120.503791)">100</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_4">
+     <g id="mfig2orbita-line2d_6">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="67.456688" y="94.368456" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_7">
+      <text style="font-size:17.6px; text-anchor: end" x="63.956688" y="101.055081" transform="rotate(-0 63.956688 101.055081)">150</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_5">
+     <g id="mfig2orbita-line2d_7">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="67.456688" y="74.919747" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_8">
+      <text style="font-size:17.6px; text-anchor: end" x="63.956688" y="81.606372" transform="rotate(-0 63.956688 81.606372)">200</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_6">
+     <g id="mfig2orbita-line2d_8">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="67.456688" y="55.471037" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_9">
+      <text style="font-size:17.6px; text-anchor: end" x="63.956688" y="62.157662" transform="rotate(-0 63.956688 62.157662)">250</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_7">
+     <g id="mfig2orbita-line2d_9">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="67.456688" y="36.022327" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_10">
+      <text style="font-size:17.6px; text-anchor: end" x="63.956688" y="42.708952" transform="rotate(-0 63.956688 42.708952)">300</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_8">
+     <g id="mfig2orbita-line2d_10">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="67.456688" y="16.573618" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_11">
+      <text style="font-size:17.6px; text-anchor: end" x="63.956688" y="23.260243" transform="rotate(-0 63.956688 23.260243)">350</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-text_12">
+     <text style="font-size:19.8px; text-anchor: middle" x="22.244906" y="80.365386" transform="rotate(-90 22.244906 80.365386)">passes</text>
+    </g>
+   </g>
+   <g id="mfig2orbita-line2d_11">
+    <path d="M 147.849765 152.714586 
+L 147.849765 8.016186 
+" clip-path="url(#mfig2orbita-p7c225725fb)" style="fill: none; stroke-dasharray: 3.33,1.44; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.9"/>
+   </g>
+   <g id="mfig2orbita-patch_45">
+    <path d="M 67.456688 152.714586 
+L 67.456688 8.016186 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig2orbita-patch_46">
+    <path d="M 67.456688 152.714586 
+L 174.729288 152.714586 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig2orbita-text_13">
+    <text style="font-size:16.5px; text-anchor: start" x="71.747592" y="29.235511" transform="rotate(-0 71.747592 29.235511)">median 359.2</text>
+   </g>
+  </g>
+  <g id="mfig2orbita-axes_2">
+   <g id="mfig2orbita-patch_47">
+    <path d="M 224.074684 152.714586 
+L 331.347285 152.714586 
+L 331.347285 8.016186 
+L 224.074684 8.016186 
+L 224.074684 152.714586 
+z
+" style="fill: none"/>
+   </g>
+   <g id="mfig2orbita-patch_48">
+    <path d="M 228.950712 152.714586 
+L 231.27263 152.714586 
+L 231.27263 121.775783 
+L 228.950712 121.775783 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_49">
+    <path d="M 231.27263 152.714586 
+L 233.594547 152.714586 
+L 233.594547 109.082941 
+L 231.27263 109.082941 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_50">
+    <path d="M 233.594547 152.714586 
+L 235.916465 152.714586 
+L 235.916465 120.189178 
+L 233.594547 120.189178 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_51">
+    <path d="M 235.916465 152.714586 
+L 238.238383 152.714586 
+L 238.238383 117.80927 
+L 235.916465 117.80927 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_52">
+    <path d="M 238.238383 152.714586 
+L 240.560301 152.714586 
+L 240.560301 117.015967 
+L 238.238383 117.015967 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_53">
+    <path d="M 240.560301 152.714586 
+L 242.882218 152.714586 
+L 242.882218 117.015967 
+L 240.560301 117.015967 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_54">
+    <path d="M 242.882218 152.714586 
+L 245.204136 152.714586 
+L 245.204136 124.948993 
+L 242.882218 124.948993 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_55">
+    <path d="M 245.204136 152.714586 
+L 247.526054 152.714586 
+L 247.526054 105.90973 
+L 245.204136 105.90973 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_56">
+    <path d="M 247.526054 152.714586 
+L 249.847972 152.714586 
+L 249.847972 119.395875 
+L 247.526054 119.395875 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_57">
+    <path d="M 249.847972 152.714586 
+L 252.169889 152.714586 
+L 252.169889 113.049454 
+L 249.847972 113.049454 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_58">
+    <path d="M 252.169889 152.714586 
+L 254.491807 152.714586 
+L 254.491807 124.155691 
+L 252.169889 124.155691 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_59">
+    <path d="M 254.491807 152.714586 
+L 256.813725 152.714586 
+L 256.813725 116.222664 
+L 254.491807 116.222664 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_60">
+    <path d="M 256.813725 152.714586 
+L 259.135643 152.714586 
+L 259.135643 130.502112 
+L 256.813725 130.502112 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_61">
+    <path d="M 259.135643 152.714586 
+L 261.45756 152.714586 
+L 261.45756 116.222664 
+L 259.135643 116.222664 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_62">
+    <path d="M 261.45756 152.714586 
+L 263.779478 152.714586 
+L 263.779478 121.775783 
+L 261.45756 121.775783 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_63">
+    <path d="M 263.779478 152.714586 
+L 266.101396 152.714586 
+L 266.101396 125.742296 
+L 263.779478 125.742296 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_64">
+    <path d="M 266.101396 152.714586 
+L 268.423314 152.714586 
+L 268.423314 121.775783 
+L 266.101396 121.775783 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_65">
+    <path d="M 268.423314 152.714586 
+L 270.745232 152.714586 
+L 270.745232 120.98248 
+L 268.423314 120.98248 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_66">
+    <path d="M 270.745232 152.714586 
+L 273.067149 152.714586 
+L 273.067149 124.948993 
+L 270.745232 124.948993 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_67">
+    <path d="M 273.067149 152.714586 
+L 275.389067 152.714586 
+L 275.389067 117.80927 
+L 273.067149 117.80927 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_68">
+    <path d="M 275.389067 152.714586 
+L 277.710985 152.714586 
+L 277.710985 113.049454 
+L 275.389067 113.049454 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_69">
+    <path d="M 277.710985 152.714586 
+L 280.032903 152.714586 
+L 280.032903 114.636059 
+L 277.710985 114.636059 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_70">
+    <path d="M 280.032903 152.714586 
+L 282.35482 152.714586 
+L 282.35482 123.362388 
+L 280.032903 123.362388 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_71">
+    <path d="M 282.35482 152.714586 
+L 284.676738 152.714586 
+L 284.676738 122.569086 
+L 282.35482 122.569086 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_72">
+    <path d="M 284.676738 152.714586 
+L 286.998656 152.714586 
+L 286.998656 125.742296 
+L 284.676738 125.742296 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_73">
+    <path d="M 286.998656 152.714586 
+L 289.320574 152.714586 
+L 289.320574 126.535599 
+L 286.998656 126.535599 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_74">
+    <path d="M 289.320574 152.714586 
+L 291.642491 152.714586 
+L 291.642491 116.222664 
+L 289.320574 116.222664 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_75">
+    <path d="M 291.642491 152.714586 
+L 293.964409 152.714586 
+L 293.964409 121.775783 
+L 291.642491 121.775783 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_76">
+    <path d="M 293.964409 152.714586 
+L 296.286327 152.714586 
+L 296.286327 117.80927 
+L 293.964409 117.80927 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_77">
+    <path d="M 296.286327 152.714586 
+L 298.608245 152.714586 
+L 298.608245 117.015967 
+L 296.286327 117.015967 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_78">
+    <path d="M 298.608245 152.714586 
+L 300.930162 152.714586 
+L 300.930162 117.80927 
+L 298.608245 117.80927 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_79">
+    <path d="M 300.930162 152.714586 
+L 303.25208 152.714586 
+L 303.25208 114.636059 
+L 300.930162 114.636059 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_80">
+    <path d="M 303.25208 152.714586 
+L 305.573998 152.714586 
+L 305.573998 112.256151 
+L 303.25208 112.256151 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_81">
+    <path d="M 305.573998 152.714586 
+L 307.895916 152.714586 
+L 307.895916 118.602572 
+L 305.573998 118.602572 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_82">
+    <path d="M 307.895916 152.714586 
+L 310.217834 152.714586 
+L 310.217834 117.015967 
+L 307.895916 117.015967 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_83">
+    <path d="M 310.217834 152.714586 
+L 312.539751 152.714586 
+L 312.539751 101.149914 
+L 310.217834 101.149914 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_84">
+    <path d="M 312.539751 152.714586 
+L 314.861669 152.714586 
+L 314.861669 104.323125 
+L 312.539751 104.323125 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_85">
+    <path d="M 314.861669 152.714586 
+L 317.183587 152.714586 
+L 317.183587 90.83698 
+L 314.861669 90.83698 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_86">
+    <path d="M 317.183587 152.714586 
+L 319.505505 152.714586 
+L 319.505505 61.484783 
+L 317.183587 61.484783 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_87">
+    <path d="M 319.505505 152.714586 
+L 321.827422 152.714586 
+L 321.827422 32.132586 
+L 319.505505 32.132586 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_88">
+    <path d="M 321.827422 152.714586 
+L 324.14934 152.714586 
+L 324.14934 143.194954 
+L 321.827422 143.194954 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_89">
+    <path d="M 324.14934 152.714586 
+L 326.471258 152.714586 
+L 326.471258 146.368164 
+L 324.14934 146.368164 
+z
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: #0072b2; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-matplotlib.axis_3">
+    <g id="mfig2orbita-xtick_3">
+     <g id="mfig2orbita-line2d_12">
+      <g>
+       <use xlink:href="#mfig2orbita-m73c34eac87" x="228.703486" y="152.714586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_14">
+      <text style="font-size:17.6px; text-anchor: middle" x="228.703486" y="169.587836" transform="rotate(-0 228.703486 169.587836)">0</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-xtick_4">
+     <g id="mfig2orbita-line2d_13">
+      <g>
+       <use xlink:href="#mfig2orbita-m73c34eac87" x="257.815247" y="152.714586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_15">
+      <text style="font-size:17.6px; text-anchor: middle" x="257.815247" y="169.587836" transform="rotate(-0 257.815247 169.587836)">2</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-xtick_5">
+     <g id="mfig2orbita-line2d_14">
+      <g>
+       <use xlink:href="#mfig2orbita-m73c34eac87" x="286.927009" y="152.714586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_16">
+      <text style="font-size:17.6px; text-anchor: middle" x="286.927009" y="169.587836" transform="rotate(-0 286.927009 169.587836)">4</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-xtick_6">
+     <g id="mfig2orbita-line2d_15">
+      <g>
+       <use xlink:href="#mfig2orbita-m73c34eac87" x="316.03877" y="152.714586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_17">
+      <text style="font-size:17.6px; text-anchor: middle" x="316.03877" y="169.587836" transform="rotate(-0 316.03877 169.587836)">6</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-text_18">
+     <text style="font-size:19.8px; text-anchor: middle" x="277.710985" y="192.292992" transform="rotate(-0 277.710985 192.292992)">swing (dB)</text>
+    </g>
+   </g>
+   <g id="mfig2orbita-matplotlib.axis_4">
+    <g id="mfig2orbita-ytick_9">
+     <g id="mfig2orbita-line2d_16">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="224.074684" y="152.714586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_19">
+      <text style="font-size:17.6px; text-anchor: end" x="220.574684" y="159.401211" transform="rotate(-0 220.574684 159.401211)">0</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_10">
+     <g id="mfig2orbita-line2d_17">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="224.074684" y="132.88202" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_20">
+      <text style="font-size:17.6px; text-anchor: end" x="220.574684" y="139.568645" transform="rotate(-0 220.574684 139.568645)">25</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_11">
+     <g id="mfig2orbita-line2d_18">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="224.074684" y="113.049454" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_21">
+      <text style="font-size:17.6px; text-anchor: end" x="220.574684" y="119.736079" transform="rotate(-0 220.574684 119.736079)">50</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_12">
+     <g id="mfig2orbita-line2d_19">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="224.074684" y="93.216888" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_22">
+      <text style="font-size:17.6px; text-anchor: end" x="220.574684" y="99.903513" transform="rotate(-0 220.574684 99.903513)">75</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_13">
+     <g id="mfig2orbita-line2d_20">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="224.074684" y="73.384322" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_23">
+      <text style="font-size:17.6px; text-anchor: end" x="220.574684" y="80.070947" transform="rotate(-0 220.574684 80.070947)">100</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_14">
+     <g id="mfig2orbita-line2d_21">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="224.074684" y="53.551757" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_24">
+      <text style="font-size:17.6px; text-anchor: end" x="220.574684" y="60.238382" transform="rotate(-0 220.574684 60.238382)">125</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_15">
+     <g id="mfig2orbita-line2d_22">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="224.074684" y="33.719191" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_25">
+      <text style="font-size:17.6px; text-anchor: end" x="220.574684" y="40.405816" transform="rotate(-0 220.574684 40.405816)">150</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_16">
+     <g id="mfig2orbita-line2d_23">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="224.074684" y="13.886625" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_26">
+      <text style="font-size:17.6px; text-anchor: end" x="220.574684" y="20.57325" transform="rotate(-0 220.574684 20.57325)">175</text>
+     </g>
+    </g>
+   </g>
+   <g id="mfig2orbita-line2d_24">
+    <path d="M 282.813318 152.714586 
+L 282.813318 8.016186 
+" clip-path="url(#mfig2orbita-pd9ce8fe434)" style="fill: none; stroke-dasharray: 3.33,1.44; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.9"/>
+   </g>
+   <g id="mfig2orbita-patch_90">
+    <path d="M 224.074684 152.714586 
+L 224.074684 8.016186 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig2orbita-patch_91">
+    <path d="M 224.074684 152.714586 
+L 331.347285 152.714586 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig2orbita-text_27">
+    <text style="font-size:16.5px; text-anchor: start" x="228.365589" y="29.235511" transform="rotate(-0 228.365589 29.235511)">median 3.72</text>
+   </g>
+  </g>
+  <g id="mfig2orbita-axes_3">
+   <g id="mfig2orbita-patch_92">
+    <path d="M 380.692681 152.714586 
+L 487.965282 152.714586 
+L 487.965282 8.016186 
+L 380.692681 8.016186 
+L 380.692681 152.714586 
+z
+" style="fill: none"/>
+   </g>
+   <g id="mfig2orbita-patch_93">
+    <path d="M 385.568709 152.714586 
+L 387.890627 152.714586 
+L 387.890627 149.744586 
+L 385.568709 149.744586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_94">
+    <path d="M 387.890627 152.714586 
+L 390.212544 152.714586 
+L 390.212544 149.150586 
+L 387.890627 149.150586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_95">
+    <path d="M 390.212544 152.714586 
+L 392.534462 152.714586 
+L 392.534462 149.744586 
+L 390.212544 149.744586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_96">
+    <path d="M 392.534462 152.714586 
+L 394.85638 152.714586 
+L 394.85638 147.368586 
+L 392.534462 147.368586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_97">
+    <path d="M 394.85638 152.714586 
+L 397.178298 152.714586 
+L 397.178298 149.150586 
+L 394.85638 149.150586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_98">
+    <path d="M 397.178298 152.714586 
+L 399.500215 152.714586 
+L 399.500215 147.368586 
+L 397.178298 147.368586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_99">
+    <path d="M 399.500215 152.714586 
+L 401.822133 152.714586 
+L 401.822133 142.022586 
+L 399.500215 142.022586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_100">
+    <path d="M 401.822133 152.714586 
+L 404.144051 152.714586 
+L 404.144051 141.428586 
+L 401.822133 141.428586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_101">
+    <path d="M 404.144051 152.714586 
+L 406.465969 152.714586 
+L 406.465969 141.428586 
+L 404.144051 141.428586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_102">
+    <path d="M 406.465969 152.714586 
+L 408.787886 152.714586 
+L 408.787886 143.210586 
+L 406.465969 143.210586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_103">
+    <path d="M 408.787886 152.714586 
+L 411.109804 152.714586 
+L 411.109804 141.428586 
+L 408.787886 141.428586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_104">
+    <path d="M 411.109804 152.714586 
+L 413.431722 152.714586 
+L 413.431722 142.022586 
+L 411.109804 142.022586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_105">
+    <path d="M 413.431722 152.714586 
+L 415.75364 152.714586 
+L 415.75364 136.676586 
+L 413.431722 136.676586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_106">
+    <path d="M 415.75364 152.714586 
+L 418.075557 152.714586 
+L 418.075557 139.052586 
+L 415.75364 139.052586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_107">
+    <path d="M 418.075557 152.714586 
+L 420.397475 152.714586 
+L 420.397475 134.300586 
+L 418.075557 134.300586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_108">
+    <path d="M 420.397475 152.714586 
+L 422.719393 152.714586 
+L 422.719393 134.300586 
+L 420.397475 134.300586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_109">
+    <path d="M 422.719393 152.714586 
+L 425.041311 152.714586 
+L 425.041311 133.706586 
+L 422.719393 133.706586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_110">
+    <path d="M 425.041311 152.714586 
+L 427.363229 152.714586 
+L 427.363229 131.330586 
+L 425.041311 131.330586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_111">
+    <path d="M 427.363229 152.714586 
+L 429.685146 152.714586 
+L 429.685146 128.360586 
+L 427.363229 128.360586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_112">
+    <path d="M 429.685146 152.714586 
+L 432.007064 152.714586 
+L 432.007064 125.390586 
+L 429.685146 125.390586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_113">
+    <path d="M 432.007064 152.714586 
+L 434.328982 152.714586 
+L 434.328982 123.608586 
+L 432.007064 123.608586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_114">
+    <path d="M 434.328982 152.714586 
+L 436.6509 152.714586 
+L 436.6509 118.262586 
+L 434.328982 118.262586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_115">
+    <path d="M 436.6509 152.714586 
+L 438.972817 152.714586 
+L 438.972817 128.954586 
+L 436.6509 128.954586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_116">
+    <path d="M 438.972817 152.714586 
+L 441.294735 152.714586 
+L 441.294735 116.480586 
+L 438.972817 116.480586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_117">
+    <path d="M 441.294735 152.714586 
+L 443.616653 152.714586 
+L 443.616653 121.232586 
+L 441.294735 121.232586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_118">
+    <path d="M 443.616653 152.714586 
+L 445.938571 152.714586 
+L 445.938571 120.638586 
+L 443.616653 120.638586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_119">
+    <path d="M 445.938571 152.714586 
+L 448.260488 152.714586 
+L 448.260488 107.570586 
+L 445.938571 107.570586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_120">
+    <path d="M 448.260488 152.714586 
+L 450.582406 152.714586 
+L 450.582406 116.480586 
+L 448.260488 116.480586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_121">
+    <path d="M 450.582406 152.714586 
+L 452.904324 152.714586 
+L 452.904324 107.570586 
+L 450.582406 107.570586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_122">
+    <path d="M 452.904324 152.714586 
+L 455.226242 152.714586 
+L 455.226242 105.194586 
+L 452.904324 105.194586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_123">
+    <path d="M 455.226242 152.714586 
+L 457.548159 152.714586 
+L 457.548159 96.284586 
+L 455.226242 96.284586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_124">
+    <path d="M 457.548159 152.714586 
+L 459.870077 152.714586 
+L 459.870077 93.314586 
+L 457.548159 93.314586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_125">
+    <path d="M 459.870077 152.714586 
+L 462.191995 152.714586 
+L 462.191995 67.178586 
+L 459.870077 67.178586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_126">
+    <path d="M 462.191995 152.714586 
+L 464.513913 152.714586 
+L 464.513913 63.614586 
+L 462.191995 63.614586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_127">
+    <path d="M 464.513913 152.714586 
+L 466.835831 152.714586 
+L 466.835831 32.132586 
+L 464.513913 32.132586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_128">
+    <path d="M 466.835831 152.714586 
+L 469.157748 152.714586 
+L 469.157748 86.186586 
+L 466.835831 86.186586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_129">
+    <path d="M 469.157748 152.714586 
+L 471.479666 152.714586 
+L 471.479666 98.660586 
+L 469.157748 98.660586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_130">
+    <path d="M 471.479666 152.714586 
+L 473.801584 152.714586 
+L 473.801584 142.616586 
+L 471.479666 142.616586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_131">
+    <path d="M 473.801584 152.714586 
+L 476.123502 152.714586 
+L 476.123502 147.368586 
+L 473.801584 147.368586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_132">
+    <path d="M 476.123502 152.714586 
+L 478.445419 152.714586 
+L 478.445419 149.150586 
+L 476.123502 149.150586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_133">
+    <path d="M 478.445419 152.714586 
+L 480.767337 152.714586 
+L 480.767337 146.774586 
+L 478.445419 146.774586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-patch_134">
+    <path d="M 480.767337 152.714586 
+L 483.089255 152.714586 
+L 483.089255 142.616586 
+L 480.767337 142.616586 
+z
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: #009e73; opacity: 0.8"/>
+   </g>
+   <g id="mfig2orbita-matplotlib.axis_5">
+    <g id="mfig2orbita-xtick_7">
+     <g id="mfig2orbita-line2d_25">
+      <g>
+       <use xlink:href="#mfig2orbita-m73c34eac87" x="415.839956" y="152.714586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_28">
+      <text style="font-size:17.6px; text-anchor: middle" x="415.839956" y="169.587836" transform="rotate(-0 415.839956 169.587836)">100</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-xtick_8">
+     <g id="mfig2orbita-line2d_26">
+      <g>
+       <use xlink:href="#mfig2orbita-m73c34eac87" x="452.092947" y="152.714586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_29">
+      <text style="font-size:17.6px; text-anchor: middle" x="452.092947" y="169.587836" transform="rotate(-0 452.092947 169.587836)">200</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-text_30">
+     <text style="font-size:19.8px; text-anchor: middle" x="434.328982" y="192.292992" transform="rotate(-0 434.328982 192.292992)">window (s)</text>
+    </g>
+   </g>
+   <g id="mfig2orbita-matplotlib.axis_6">
+    <g id="mfig2orbita-ytick_17">
+     <g id="mfig2orbita-line2d_27">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="380.692681" y="152.714586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_31">
+      <text style="font-size:17.6px; text-anchor: end" x="377.192681" y="159.401211" transform="rotate(-0 377.192681 159.401211)">0</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_18">
+     <g id="mfig2orbita-line2d_28">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="380.692681" y="123.014586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_32">
+      <text style="font-size:17.6px; text-anchor: end" x="377.192681" y="129.701211" transform="rotate(-0 377.192681 129.701211)">50</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_19">
+     <g id="mfig2orbita-line2d_29">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="380.692681" y="93.314586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_33">
+      <text style="font-size:17.6px; text-anchor: end" x="377.192681" y="100.001211" transform="rotate(-0 377.192681 100.001211)">100</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_20">
+     <g id="mfig2orbita-line2d_30">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="380.692681" y="63.614586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_34">
+      <text style="font-size:17.6px; text-anchor: end" x="377.192681" y="70.301211" transform="rotate(-0 377.192681 70.301211)">150</text>
+     </g>
+    </g>
+    <g id="mfig2orbita-ytick_21">
+     <g id="mfig2orbita-line2d_31">
+      <g>
+       <use xlink:href="#mfig2orbita-md3fca96701" x="380.692681" y="33.914586" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig2orbita-text_35">
+      <text style="font-size:17.6px; text-anchor: end" x="377.192681" y="40.601211" transform="rotate(-0 377.192681 40.601211)">200</text>
+     </g>
+    </g>
+   </g>
+   <g id="mfig2orbita-line2d_32">
+    <path d="M 454.268127 152.714586 
+L 454.268127 8.016186 
+" clip-path="url(#mfig2orbita-pc82ff9cbc0)" style="fill: none; stroke-dasharray: 3.33,1.44; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.9"/>
+   </g>
+   <g id="mfig2orbita-patch_135">
+    <path d="M 380.692681 152.714586 
+L 380.692681 8.016186 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig2orbita-patch_136">
+    <path d="M 380.692681 152.714586 
+L 487.965282 152.714586 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig2orbita-text_36">
+    <text style="font-size:16.5px; text-anchor: start" x="384.983586" y="29.235511" transform="rotate(-0 384.983586 29.235511)">median 206.0</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="mfig2orbita-p7c225725fb">
+   <rect x="67.456688" y="8.016186" width="107.272601" height="144.6984"/>
+  </clipPath>
+  <clipPath id="mfig2orbita-pd9ce8fe434">
+   <rect x="224.074684" y="8.016186" width="107.272601" height="144.6984"/>
+  </clipPath>
+  <clipPath id="mfig2orbita-pc82ff9cbc0">
+   <rect x="380.692681" y="8.016186" width="107.272601" height="144.6984"/>
+  </clipPath>
+ </defs>
+</svg>

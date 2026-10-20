@@ -1,0 +1,676 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 501.246556 202.794588" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T23:00:24.411325</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="mfig4elevat-figure_1">
+  <g id="mfig4elevat-patch_1">
+   <path d="M 0 202.794588 
+L 501.246556 202.794588 
+L 501.246556 0 
+L 0 0 
+L 0 202.794588 
+z
+" style="fill: none"/>
+  </g>
+  <g id="mfig4elevat-axes_1">
+   <g id="mfig4elevat-patch_2">
+    <path d="M 67.456688 151.8984 
+L 174.667165 151.8984 
+L 174.667165 7.2 
+L 67.456688 7.2 
+L 67.456688 151.8984 
+z
+" style="fill: none"/>
+   </g>
+   <g id="mfig4elevat-matplotlib.axis_1">
+    <g id="mfig4elevat-xtick_1">
+     <g id="mfig4elevat-line2d_1">
+      <defs>
+       <path id="mfig4elevat-m35d40ad295" d="M 0 0 
+L 0 -3.5 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfig4elevat-m35d40ad295" x="72.329891" y="151.8984" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_1">
+      <text style="font-size:17.6px; text-anchor: middle" x="72.329891" y="168.77165" transform="rotate(-0 72.329891 168.77165)">10</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-xtick_2">
+     <g id="mfig4elevat-line2d_2">
+      <g>
+       <use xlink:href="#mfig4elevat-m35d40ad295" x="145.427944" y="151.8984" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_2">
+      <text style="font-size:17.6px; text-anchor: middle" x="145.427944" y="168.77165" transform="rotate(-0 145.427944 168.77165)">25</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-xtick_3">
+     <g id="mfig4elevat-line2d_3">
+      <g>
+       <use xlink:href="#mfig4elevat-m35d40ad295" x="169.793962" y="151.8984" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_3">
+      <text style="font-size:17.6px; text-anchor: middle" x="169.793962" y="168.77165" transform="rotate(-0 169.793962 168.77165)">30</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-text_4">
+     <!-- min.\ elevation ($^\circ$) -->
+     <g transform="translate(29.981926 191.476806)">
+      <text>
+       <tspan style="font-size:19.8px" x="0 18.727783 25.044312 37.76416 42.792114 49.446167 55.724121 67.412109 73.728638 85.416626 96.574219 108.348999 116.285645 122.602173 134.492676 147.212524 153.490479 173.917261" y="-0.796875">min.\ elevation ()</tspan>
+       <tspan style="font-size:13.86px" x="163.999131" y="-8.059375">∘</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="mfig4elevat-matplotlib.axis_2">
+    <g id="mfig4elevat-ytick_1">
+     <g id="mfig4elevat-line2d_4">
+      <defs>
+       <path id="mfig4elevat-mbd4c8e2e78" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="67.456688" y="126.265761" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_5">
+      <text style="font-size:17.6px; text-anchor: end" x="63.956688" y="132.952386" transform="rotate(-0 63.956688 132.952386)">200</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_2">
+     <g id="mfig4elevat-line2d_5">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="67.456688" y="95.531181" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_6">
+      <text style="font-size:17.6px; text-anchor: end" x="63.956688" y="102.217806" transform="rotate(-0 63.956688 102.217806)">250</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_3">
+     <g id="mfig4elevat-line2d_6">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="67.456688" y="64.796602" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_7">
+      <text style="font-size:17.6px; text-anchor: end" x="63.956688" y="71.483227" transform="rotate(-0 63.956688 71.483227)">300</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_4">
+     <g id="mfig4elevat-line2d_7">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="67.456688" y="34.062022" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_8">
+      <text style="font-size:17.6px; text-anchor: end" x="63.956688" y="40.748647" transform="rotate(-0 63.956688 40.748647)">350</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-text_9">
+     <text style="font-size:19.8px; text-anchor: middle" x="22.244906" y="79.5492" transform="rotate(-90 22.244906 79.5492)">window (s)</text>
+    </g>
+   </g>
+   <g id="mfig4elevat-line2d_8">
+    <path d="M 72.329891 21.614518 
+L 145.427944 122.577611 
+L 169.793962 143.477125 
+" clip-path="url(#mfig4elevat-p93a77898ad)" style="fill: none; stroke: #009e73; stroke-width: 1.1; stroke-linecap: square"/>
+    <defs>
+     <path id="mfig4elevat-m004f328be7" d="M 0 1.7 
+C 0.450845 1.7 0.883286 1.520877 1.202082 1.202082 
+C 1.520877 0.883286 1.7 0.450845 1.7 0 
+C 1.7 -0.450845 1.520877 -0.883286 1.202082 -1.202082 
+C 0.883286 -1.520877 0.450845 -1.7 0 -1.7 
+C -0.450845 -1.7 -0.883286 -1.520877 -1.202082 -1.202082 
+C -1.520877 -0.883286 -1.7 -0.450845 -1.7 0 
+C -1.7 0.450845 -1.520877 0.883286 -1.202082 1.202082 
+C -0.883286 1.520877 -0.450845 1.7 0 1.7 
+z
+" style="stroke: #009e73"/>
+    </defs>
+    <g clip-path="url(#mfig4elevat-p93a77898ad)">
+     <use xlink:href="#mfig4elevat-m004f328be7" x="72.329891" y="21.614518" style="fill: #009e73; stroke: #009e73"/>
+     <use xlink:href="#mfig4elevat-m004f328be7" x="145.427944" y="122.577611" style="fill: #009e73; stroke: #009e73"/>
+     <use xlink:href="#mfig4elevat-m004f328be7" x="169.793962" y="143.477125" style="fill: #009e73; stroke: #009e73"/>
+    </g>
+   </g>
+   <g id="mfig4elevat-line2d_9">
+    <path d="M 72.329891 20.846153 
+L 145.427944 122.884957 
+L 169.793962 144.706508 
+" clip-path="url(#mfig4elevat-p93a77898ad)" style="fill: none; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #555555; stroke-opacity: 0.55; stroke-width: 1.1"/>
+    <defs>
+     <path id="mfig4elevat-m6a60fdf48c" d="M -1.7 1.7 
+L 1.7 1.7 
+L 1.7 -1.7 
+L -1.7 -1.7 
+z
+" style="stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#mfig4elevat-p93a77898ad)">
+     <use xlink:href="#mfig4elevat-m6a60fdf48c" x="72.329891" y="20.846153" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m6a60fdf48c" x="145.427944" y="122.884957" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m6a60fdf48c" x="169.793962" y="144.706508" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="mfig4elevat-line2d_10">
+    <path d="M 72.329891 13.7772 
+L 145.427944 125.958415 
+L 169.793962 145.3212 
+" clip-path="url(#mfig4elevat-p93a77898ad)" style="fill: none; stroke-dasharray: 7.04,1.76,1.1,1.76; stroke-dashoffset: 0; stroke: #555555; stroke-opacity: 0.55; stroke-width: 1.1"/>
+    <defs>
+     <path id="mfig4elevat-m6b3193738c" d="M 0 -1.7 
+L -1.7 1.7 
+L 1.7 1.7 
+z
+" style="stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#mfig4elevat-p93a77898ad)">
+     <use xlink:href="#mfig4elevat-m6b3193738c" x="72.329891" y="13.7772" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m6b3193738c" x="145.427944" y="125.958415" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m6b3193738c" x="169.793962" y="145.3212" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="mfig4elevat-line2d_11">
+    <path d="M 72.329891 86.618153 
+L 145.427944 117.045387 
+L 169.793962 139.174284 
+" clip-path="url(#mfig4elevat-p93a77898ad)" style="fill: none; stroke-dasharray: 1.1,1.815; stroke-dashoffset: 0; stroke: #555555; stroke-opacity: 0.55; stroke-width: 1.1"/>
+    <defs>
+     <path id="mfig4elevat-m06e21056d0" d="M -0 2.404163 
+L 2.404163 0 
+L 0 -2.404163 
+L -2.404163 -0 
+z
+" style="stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#mfig4elevat-p93a77898ad)">
+     <use xlink:href="#mfig4elevat-m06e21056d0" x="72.329891" y="86.618153" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m06e21056d0" x="145.427944" y="117.045387" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m06e21056d0" x="169.793962" y="139.174284" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="mfig4elevat-patch_3">
+    <path d="M 67.456688 151.8984 
+L 67.456688 7.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig4elevat-patch_4">
+    <path d="M 67.456687 151.8984 
+L 174.667165 151.8984 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig4elevat-legend_1">
+    <g id="mfig4elevat-line2d_12">
+     <path d="M 86.67829 21.640766 
+L 93.17829 21.640766 
+L 99.67829 21.640766 
+" style="fill: none; stroke: #009e73; stroke-width: 1.1; stroke-linecap: square"/>
+     <g>
+      <use xlink:href="#mfig4elevat-m004f328be7" x="93.17829" y="21.640766" style="fill: #009e73; stroke: #009e73"/>
+     </g>
+    </g>
+    <g id="mfig4elevat-text_10">
+     <text style="font-size:14.3px; text-anchor: start" x="104.87829" y="23.915766" transform="rotate(-0 104.87829 23.915766)">Da Nang</text>
+    </g>
+    <g id="mfig4elevat-line2d_13">
+     <path d="M 86.67829 38.933813 
+L 93.17829 38.933813 
+L 99.67829 38.933813 
+" style="fill: none; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #555555; stroke-opacity: 0.55; stroke-width: 1.1"/>
+     <g>
+      <use xlink:href="#mfig4elevat-m6a60fdf48c" x="93.17829" y="38.933813" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     </g>
+    </g>
+    <g id="mfig4elevat-text_11">
+     <text style="font-size:14.3px; text-anchor: start" x="104.87829" y="41.208813" transform="rotate(-0 104.87829 41.208813)">Equator</text>
+    </g>
+    <g id="mfig4elevat-line2d_14">
+     <path d="M 86.67829 56.023531 
+L 93.17829 56.023531 
+L 99.67829 56.023531 
+" style="fill: none; stroke-dasharray: 7.04,1.76,1.1,1.76; stroke-dashoffset: 0; stroke: #555555; stroke-opacity: 0.55; stroke-width: 1.1"/>
+     <g>
+      <use xlink:href="#mfig4elevat-m6b3193738c" x="93.17829" y="56.023531" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     </g>
+    </g>
+    <g id="mfig4elevat-text_12">
+     <text style="font-size:14.3px; text-anchor: start" x="104.87829" y="58.298531" transform="rotate(-0 104.87829 58.298531)">Mid-lat</text>
+    </g>
+    <g id="mfig4elevat-line2d_15">
+     <path d="M 86.67829 73.11325 
+L 93.17829 73.11325 
+L 99.67829 73.11325 
+" style="fill: none; stroke-dasharray: 1.1,1.815; stroke-dashoffset: 0; stroke: #555555; stroke-opacity: 0.55; stroke-width: 1.1"/>
+     <g>
+      <use xlink:href="#mfig4elevat-m06e21056d0" x="93.17829" y="73.11325" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     </g>
+    </g>
+    <g id="mfig4elevat-text_13">
+     <text style="font-size:14.3px; text-anchor: start" x="104.87829" y="75.38825" transform="rotate(-0 104.87829 75.38825)">High-lat</text>
+    </g>
+   </g>
+  </g>
+  <g id="mfig4elevat-axes_2">
+   <g id="mfig4elevat-patch_5">
+    <path d="M 223.983985 151.8984 
+L 331.194462 151.8984 
+L 331.194462 7.2 
+L 223.983985 7.2 
+L 223.983985 151.8984 
+z
+" style="fill: none"/>
+   </g>
+   <g id="mfig4elevat-matplotlib.axis_3">
+    <g id="mfig4elevat-xtick_4">
+     <g id="mfig4elevat-line2d_16">
+      <g>
+       <use xlink:href="#mfig4elevat-m35d40ad295" x="228.857188" y="151.8984" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_14">
+      <text style="font-size:17.6px; text-anchor: middle" x="228.857188" y="168.77165" transform="rotate(-0 228.857188 168.77165)">10</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-xtick_5">
+     <g id="mfig4elevat-line2d_17">
+      <g>
+       <use xlink:href="#mfig4elevat-m35d40ad295" x="301.955241" y="151.8984" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_15">
+      <text style="font-size:17.6px; text-anchor: middle" x="301.955241" y="168.77165" transform="rotate(-0 301.955241 168.77165)">25</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-xtick_6">
+     <g id="mfig4elevat-line2d_18">
+      <g>
+       <use xlink:href="#mfig4elevat-m35d40ad295" x="326.321259" y="151.8984" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_16">
+      <text style="font-size:17.6px; text-anchor: middle" x="326.321259" y="168.77165" transform="rotate(-0 326.321259 168.77165)">30</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-text_17">
+     <!-- min.\ elevation ($^\circ$) -->
+     <g transform="translate(186.509224 191.476806)">
+      <text>
+       <tspan style="font-size:19.8px" x="0 18.727783 25.044312 37.76416 42.792114 49.446167 55.724121 67.412109 73.728638 85.416626 96.574219 108.348999 116.285645 122.602173 134.492676 147.212524 153.490479 173.917261" y="-0.796875">min.\ elevation ()</tspan>
+       <tspan style="font-size:13.86px" x="163.999131" y="-8.059375">∘</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="mfig4elevat-matplotlib.axis_4">
+    <g id="mfig4elevat-ytick_5">
+     <g id="mfig4elevat-line2d_19">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="223.983985" y="138.875176" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_18">
+      <text style="font-size:17.6px; text-anchor: end" x="220.483985" y="145.561801" transform="rotate(-0 220.483985 145.561801)">300</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_6">
+     <g id="mfig4elevat-line2d_20">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="223.983985" y="114.671015" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_19">
+      <text style="font-size:17.6px; text-anchor: end" x="220.483985" y="121.35764" transform="rotate(-0 220.483985 121.35764)">320</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_7">
+     <g id="mfig4elevat-line2d_21">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="223.983985" y="90.466855" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_20">
+      <text style="font-size:17.6px; text-anchor: end" x="220.483985" y="97.15348" transform="rotate(-0 220.483985 97.15348)">340</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_8">
+     <g id="mfig4elevat-line2d_22">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="223.983985" y="66.262694" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_21">
+      <text style="font-size:17.6px; text-anchor: end" x="220.483985" y="72.949319" transform="rotate(-0 220.483985 72.949319)">360</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_9">
+     <g id="mfig4elevat-line2d_23">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="223.983985" y="42.058533" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_22">
+      <text style="font-size:17.6px; text-anchor: end" x="220.483985" y="48.745158" transform="rotate(-0 220.483985 48.745158)">380</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_10">
+     <g id="mfig4elevat-line2d_24">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="223.983985" y="17.854372" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_23">
+      <text style="font-size:17.6px; text-anchor: end" x="220.483985" y="24.540997" transform="rotate(-0 220.483985 24.540997)">400</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-text_24">
+     <text style="font-size:19.8px; text-anchor: middle" x="178.772204" y="79.5492" transform="rotate(-90 178.772204 79.5492)">Doppler (kHz)</text>
+    </g>
+   </g>
+   <g id="mfig4elevat-line2d_25">
+    <path d="M 228.857188 32.641424 
+L 301.955241 67.269671 
+L 326.321259 86.909554 
+" clip-path="url(#mfig4elevat-pd4aafcc855)" style="fill: none; stroke: #2c6e9b; stroke-width: 1.1; stroke-linecap: square"/>
+    <defs>
+     <path id="mfig4elevat-m9623f02132" d="M 0 1.7 
+C 0.450845 1.7 0.883286 1.520877 1.202082 1.202082 
+C 1.520877 0.883286 1.7 0.450845 1.7 0 
+C 1.7 -0.450845 1.520877 -0.883286 1.202082 -1.202082 
+C 0.883286 -1.520877 0.450845 -1.7 0 -1.7 
+C -0.450845 -1.7 -0.883286 -1.520877 -1.202082 -1.202082 
+C -1.520877 -0.883286 -1.7 -0.450845 -1.7 0 
+C -1.7 0.450845 -1.520877 0.883286 -1.202082 1.202082 
+C -0.883286 1.520877 -0.450845 1.7 0 1.7 
+z
+" style="stroke: #2c6e9b"/>
+    </defs>
+    <g clip-path="url(#mfig4elevat-pd4aafcc855)">
+     <use xlink:href="#mfig4elevat-m9623f02132" x="228.857188" y="32.641424" style="fill: #2c6e9b; stroke: #2c6e9b"/>
+     <use xlink:href="#mfig4elevat-m9623f02132" x="301.955241" y="67.269671" style="fill: #2c6e9b; stroke: #2c6e9b"/>
+     <use xlink:href="#mfig4elevat-m9623f02132" x="326.321259" y="86.909554" style="fill: #2c6e9b; stroke: #2c6e9b"/>
+    </g>
+   </g>
+   <g id="mfig4elevat-line2d_26">
+    <path d="M 228.857188 29.759403 
+L 301.955241 70.756698 
+L 326.321259 92.627414 
+" clip-path="url(#mfig4elevat-pd4aafcc855)" style="fill: none; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #555555; stroke-opacity: 0.55; stroke-width: 1.1"/>
+    <g clip-path="url(#mfig4elevat-pd4aafcc855)">
+     <use xlink:href="#mfig4elevat-m6a60fdf48c" x="228.857188" y="29.759403" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m6a60fdf48c" x="301.955241" y="70.756698" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m6a60fdf48c" x="326.321259" y="92.627414" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="mfig4elevat-line2d_27">
+    <path d="M 228.857188 13.7772 
+L 301.955241 72.89045 
+L 326.321259 93.099011 
+" clip-path="url(#mfig4elevat-pd4aafcc855)" style="fill: none; stroke-dasharray: 7.04,1.76,1.1,1.76; stroke-dashoffset: 0; stroke: #555555; stroke-opacity: 0.55; stroke-width: 1.1"/>
+    <g clip-path="url(#mfig4elevat-pd4aafcc855)">
+     <use xlink:href="#mfig4elevat-m6b3193738c" x="228.857188" y="13.7772" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m6b3193738c" x="301.955241" y="72.89045" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m6b3193738c" x="326.321259" y="93.099011" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="mfig4elevat-line2d_28">
+    <path d="M 228.857188 145.3212 
+L 301.955241 54.06094 
+L 326.321259 84.080057 
+" clip-path="url(#mfig4elevat-pd4aafcc855)" style="fill: none; stroke-dasharray: 1.1,1.815; stroke-dashoffset: 0; stroke: #555555; stroke-opacity: 0.55; stroke-width: 1.1"/>
+    <g clip-path="url(#mfig4elevat-pd4aafcc855)">
+     <use xlink:href="#mfig4elevat-m06e21056d0" x="228.857188" y="145.3212" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m06e21056d0" x="301.955241" y="54.06094" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m06e21056d0" x="326.321259" y="84.080057" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="mfig4elevat-patch_6">
+    <path d="M 223.983985 151.8984 
+L 223.983985 7.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig4elevat-patch_7">
+    <path d="M 223.983985 151.8984 
+L 331.194462 151.8984 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="mfig4elevat-axes_3">
+   <g id="mfig4elevat-patch_8">
+    <path d="M 380.511282 151.8984 
+L 487.72176 151.8984 
+L 487.72176 7.2 
+L 380.511282 7.2 
+L 380.511282 151.8984 
+z
+" style="fill: none"/>
+   </g>
+   <g id="mfig4elevat-matplotlib.axis_5">
+    <g id="mfig4elevat-xtick_7">
+     <g id="mfig4elevat-line2d_29">
+      <g>
+       <use xlink:href="#mfig4elevat-m35d40ad295" x="385.384486" y="151.8984" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_25">
+      <text style="font-size:17.6px; text-anchor: middle" x="385.384486" y="168.77165" transform="rotate(-0 385.384486 168.77165)">10</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-xtick_8">
+     <g id="mfig4elevat-line2d_30">
+      <g>
+       <use xlink:href="#mfig4elevat-m35d40ad295" x="458.482539" y="151.8984" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_26">
+      <text style="font-size:17.6px; text-anchor: middle" x="458.482539" y="168.77165" transform="rotate(-0 458.482539 168.77165)">25</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-xtick_9">
+     <g id="mfig4elevat-line2d_31">
+      <g>
+       <use xlink:href="#mfig4elevat-m35d40ad295" x="482.848556" y="151.8984" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_27">
+      <text style="font-size:17.6px; text-anchor: middle" x="482.848556" y="168.77165" transform="rotate(-0 482.848556 168.77165)">30</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-text_28">
+     <!-- min.\ elevation ($^\circ$) -->
+     <g transform="translate(343.036521 191.476806)">
+      <text>
+       <tspan style="font-size:19.8px" x="0 18.727783 25.044312 37.76416 42.792114 49.446167 55.724121 67.412109 73.728638 85.416626 96.574219 108.348999 116.285645 122.602173 134.492676 147.212524 153.490479 173.917261" y="-0.796875">min.\ elevation ()</tspan>
+       <tspan style="font-size:13.86px" x="163.999131" y="-8.059375">∘</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="mfig4elevat-matplotlib.axis_6">
+    <g id="mfig4elevat-ytick_11">
+     <g id="mfig4elevat-line2d_32">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="380.511282" y="144.43446" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_29">
+      <text style="font-size:17.6px; text-anchor: end" x="377.011282" y="151.121085" transform="rotate(-0 377.011282 151.121085)">2.0</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_12">
+     <g id="mfig4elevat-line2d_33">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="380.511282" y="127.096642" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_30">
+      <text style="font-size:17.6px; text-anchor: end" x="377.011282" y="133.783267" transform="rotate(-0 377.011282 133.783267)">2.5</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_13">
+     <g id="mfig4elevat-line2d_34">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="380.511282" y="109.758824" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_31">
+      <text style="font-size:17.6px; text-anchor: end" x="377.011282" y="116.445449" transform="rotate(-0 377.011282 116.445449)">3.0</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_14">
+     <g id="mfig4elevat-line2d_35">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="380.511282" y="92.421007" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_32">
+      <text style="font-size:17.6px; text-anchor: end" x="377.011282" y="99.107632" transform="rotate(-0 377.011282 99.107632)">3.5</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_15">
+     <g id="mfig4elevat-line2d_36">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="380.511282" y="75.083189" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_33">
+      <text style="font-size:17.6px; text-anchor: end" x="377.011282" y="81.769814" transform="rotate(-0 377.011282 81.769814)">4.0</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_16">
+     <g id="mfig4elevat-line2d_37">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="380.511282" y="57.745371" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_34">
+      <text style="font-size:17.6px; text-anchor: end" x="377.011282" y="64.431996" transform="rotate(-0 377.011282 64.431996)">4.5</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_17">
+     <g id="mfig4elevat-line2d_38">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="380.511282" y="40.407553" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_35">
+      <text style="font-size:17.6px; text-anchor: end" x="377.011282" y="47.094178" transform="rotate(-0 377.011282 47.094178)">5.0</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-ytick_18">
+     <g id="mfig4elevat-line2d_39">
+      <g>
+       <use xlink:href="#mfig4elevat-mbd4c8e2e78" x="380.511282" y="23.069735" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig4elevat-text_36">
+      <text style="font-size:17.6px; text-anchor: end" x="377.011282" y="29.75636" transform="rotate(-0 377.011282 29.75636)">5.5</text>
+     </g>
+    </g>
+    <g id="mfig4elevat-text_37">
+     <text style="font-size:19.8px; text-anchor: middle" x="340.62247" y="79.5492" transform="rotate(-90 340.62247 79.5492)">swing (dB)</text>
+    </g>
+   </g>
+   <g id="mfig4elevat-line2d_40">
+    <path d="M 385.384486 41.521752 
+L 458.482539 84.882996 
+L 482.848556 100.760105 
+" clip-path="url(#mfig4elevat-p569dd299be)" style="fill: none; stroke: #0072b2; stroke-width: 1.1; stroke-linecap: square"/>
+    <defs>
+     <path id="mfig4elevat-me28b277541" d="M 0 1.7 
+C 0.450845 1.7 0.883286 1.520877 1.202082 1.202082 
+C 1.520877 0.883286 1.7 0.450845 1.7 0 
+C 1.7 -0.450845 1.520877 -0.883286 1.202082 -1.202082 
+C 0.883286 -1.520877 0.450845 -1.7 0 -1.7 
+C -0.450845 -1.7 -0.883286 -1.520877 -1.202082 -1.202082 
+C -1.520877 -0.883286 -1.7 -0.450845 -1.7 0 
+C -1.7 0.450845 -1.520877 0.883286 -1.202082 1.202082 
+C -0.883286 1.520877 -0.450845 1.7 0 1.7 
+z
+" style="stroke: #0072b2"/>
+    </defs>
+    <g clip-path="url(#mfig4elevat-p569dd299be)">
+     <use xlink:href="#mfig4elevat-me28b277541" x="385.384486" y="41.521752" style="fill: #0072b2; stroke: #0072b2"/>
+     <use xlink:href="#mfig4elevat-me28b277541" x="458.482539" y="84.882996" style="fill: #0072b2; stroke: #0072b2"/>
+     <use xlink:href="#mfig4elevat-me28b277541" x="482.848556" y="100.760105" style="fill: #0072b2; stroke: #0072b2"/>
+    </g>
+   </g>
+   <g id="mfig4elevat-line2d_41">
+    <path d="M 385.384486 37.191576 
+L 458.482539 86.585696 
+L 482.848556 105.70393 
+" clip-path="url(#mfig4elevat-p569dd299be)" style="fill: none; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #555555; stroke-opacity: 0.55; stroke-width: 1.1"/>
+    <g clip-path="url(#mfig4elevat-p569dd299be)">
+     <use xlink:href="#mfig4elevat-m6a60fdf48c" x="385.384486" y="37.191576" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m6a60fdf48c" x="458.482539" y="86.585696" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m6a60fdf48c" x="482.848556" y="105.70393" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="mfig4elevat-line2d_42">
+    <path d="M 385.384486 13.7772 
+L 458.482539 88.447764 
+L 482.848556 105.783615 
+" clip-path="url(#mfig4elevat-p569dd299be)" style="fill: none; stroke-dasharray: 7.04,1.76,1.1,1.76; stroke-dashoffset: 0; stroke: #555555; stroke-opacity: 0.55; stroke-width: 1.1"/>
+    <g clip-path="url(#mfig4elevat-p569dd299be)">
+     <use xlink:href="#mfig4elevat-m6b3193738c" x="385.384486" y="13.7772" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m6b3193738c" x="458.482539" y="88.447764" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m6b3193738c" x="482.848556" y="105.783615" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="mfig4elevat-line2d_43">
+    <path d="M 385.384486 145.3212 
+L 458.482539 79.603064 
+L 482.848556 105.283588 
+" clip-path="url(#mfig4elevat-p569dd299be)" style="fill: none; stroke-dasharray: 1.1,1.815; stroke-dashoffset: 0; stroke: #555555; stroke-opacity: 0.55; stroke-width: 1.1"/>
+    <g clip-path="url(#mfig4elevat-p569dd299be)">
+     <use xlink:href="#mfig4elevat-m06e21056d0" x="385.384486" y="145.3212" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m06e21056d0" x="458.482539" y="79.603064" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+     <use xlink:href="#mfig4elevat-m06e21056d0" x="482.848556" y="105.283588" style="fill: #555555; fill-opacity: 0.55; stroke: #555555; stroke-opacity: 0.55; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="mfig4elevat-patch_9">
+    <path d="M 380.511282 151.8984 
+L 380.511282 7.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig4elevat-patch_10">
+    <path d="M 380.511282 151.8984 
+L 487.72176 151.8984 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="mfig4elevat-p93a77898ad">
+   <rect x="67.456688" y="7.2" width="107.210478" height="144.6984"/>
+  </clipPath>
+  <clipPath id="mfig4elevat-pd4aafcc855">
+   <rect x="223.983985" y="7.2" width="107.210478" height="144.6984"/>
+  </clipPath>
+  <clipPath id="mfig4elevat-p569dd299be">
+   <rect x="380.511282" y="7.2" width="107.210478" height="144.6984"/>
+  </clipPath>
+ </defs>
+</svg>

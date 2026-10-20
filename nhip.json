@@ -1,0 +1,115 @@
+{
+  "profile": "nghien-cuu",
+  "tong_phut_khai": 20.0,
+  "tong_phut_cong": 20.0,
+  "moc": [
+    {
+      "id": "s01",
+      "tieu_de": "cover",
+      "dang": "cover",
+      "che_do": "noi",
+      "bat_dau": 0.0,
+      "phut": 0.5,
+      "wow": false
+    },
+    {
+      "id": "s02",
+      "tieu_de": "Khảo sát của lĩnh vực đã nói hết, trừ một câu",
+      "dang": "noi-dung",
+      "che_do": "noi",
+      "bat_dau": 0.5,
+      "phut": 1.5,
+      "wow": false
+    },
+    {
+      "id": "s03",
+      "tieu_de": "Giao thức kiểm toán",
+      "dang": "noi-dung",
+      "che_do": "hinh",
+      "bat_dau": 2.0,
+      "phut": 2.5,
+      "wow": false
+    },
+    {
+      "id": "s04",
+      "tieu_de": "Hạn chế bị bỏ qua lớn cỡ nào",
+      "dang": "noi-dung",
+      "che_do": "so",
+      "bat_dau": 4.5,
+      "phut": 2.5,
+      "wow": false
+    },
+    {
+      "id": "s05",
+      "tieu_de": "Phân bố thật qua một chòm sao",
+      "dang": "noi-dung",
+      "che_do": "hinh",
+      "bat_dau": 7.0,
+      "phut": 2.0,
+      "wow": false
+    },
+    {
+      "id": "s06",
+      "tieu_de": "Kiểm kê hai mươi sáu công trình",
+      "dang": "noi-dung",
+      "che_do": "so",
+      "bat_dau": 9.0,
+      "phut": 3.0,
+      "wow": true
+    },
+    {
+      "id": "s07",
+      "tieu_de": "Nêu ra một đằng, đo một nẻo",
+      "dang": "noi-dung",
+      "che_do": "hinh",
+      "bat_dau": 12.0,
+      "phut": 2.0,
+      "wow": false
+    },
+    {
+      "id": "s08",
+      "tieu_de": "Đánh giá lại trên GPU",
+      "dang": "noi-dung",
+      "che_do": "so",
+      "bat_dau": 14.0,
+      "phut": 2.0,
+      "wow": false
+    },
+    {
+      "id": "s09",
+      "tieu_de": "Hai kết quả chạy ngược giả thuyết của chính bài",
+      "dang": "noi-dung",
+      "che_do": "hoi",
+      "bat_dau": 16.0,
+      "phut": 1.5,
+      "wow": false
+    },
+    {
+      "id": "s10",
+      "tieu_de": "Làm gì với kết quả này",
+      "dang": "noi-dung",
+      "che_do": "noi",
+      "bat_dau": 17.5,
+      "phut": 1.0,
+      "wow": false
+    },
+    {
+      "id": "s11",
+      "tieu_de": "cam-on",
+      "dang": "cam-on",
+      "che_do": "lang",
+      "bat_dau": 18.5,
+      "phut": 1.0,
+      "wow": false
+    },
+    {
+      "id": "s12",
+      "tieu_de": "one-more-thing",
+      "dang": "one-more-thing",
+      "che_do": "noi",
+      "bat_dau": 19.5,
+      "phut": 0.5,
+      "wow": false
+    }
+  ]
+}

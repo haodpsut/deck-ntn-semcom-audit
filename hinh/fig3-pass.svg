@@ -1,0 +1,513 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 503.227587 308.130587" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T23:00:24.958441</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="mfig3pass-figure_1">
+  <g id="mfig3pass-patch_1">
+   <path d="M 0 308.130587 
+L 503.227587 308.130587 
+L 503.227587 0 
+L 0 0 
+L 0 308.130587 
+z
+" style="fill: none"/>
+  </g>
+  <g id="mfig3pass-axes_1">
+   <g id="mfig3pass-patch_2">
+    <path d="M 82.204938 80.739529 
+L 496.027587 80.739529 
+L 496.027587 7.2 
+L 82.204938 7.2 
+L 82.204938 80.739529 
+z
+" style="fill: none"/>
+   </g>
+   <g id="mfig3pass-patch_3">
+    <path d="M 289.116262 80.739529 
+L 290.85794 80.739529 
+L 290.85794 7.2 
+L 289.116262 7.2 
+z
+" clip-path="url(#mfig3pass-pd4682b154b)" style="fill: #e69f00; opacity: 0.85"/>
+   </g>
+   <g id="mfig3pass-matplotlib.axis_1">
+    <g id="mfig3pass-xtick_1">
+     <g id="mfig3pass-line2d_1">
+      <defs>
+       <path id="mfig3pass-m1efb2a03b6" d="M 0 0 
+L 0 -3.5 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="101.015058" y="80.739529" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="mfig3pass-xtick_2">
+     <g id="mfig3pass-line2d_2">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="188.098949" y="80.739529" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="mfig3pass-xtick_3">
+     <g id="mfig3pass-line2d_3">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="275.182839" y="80.739529" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="mfig3pass-xtick_4">
+     <g id="mfig3pass-line2d_4">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="362.26673" y="80.739529" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="mfig3pass-xtick_5">
+     <g id="mfig3pass-line2d_5">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="449.350621" y="80.739529" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mfig3pass-matplotlib.axis_2">
+    <g id="mfig3pass-ytick_1">
+     <g id="mfig3pass-line2d_6">
+      <defs>
+       <path id="mfig3pass-mf7ae73ad3f" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfig3pass-mf7ae73ad3f" x="82.204938" y="61.354828" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig3pass-text_1">
+      <text style="font-size:17.6px; text-anchor: end" x="78.704938" y="68.041453" transform="rotate(-0 78.704938 68.041453)">30</text>
+     </g>
+    </g>
+    <g id="mfig3pass-ytick_2">
+     <g id="mfig3pass-line2d_7">
+      <g>
+       <use xlink:href="#mfig3pass-mf7ae73ad3f" x="82.204938" y="29.218959" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig3pass-text_2">
+      <text style="font-size:17.6px; text-anchor: end" x="78.704938" y="35.905584" transform="rotate(-0 78.704938 35.905584)">40</text>
+     </g>
+    </g>
+    <g id="mfig3pass-text_3">
+     <!-- elevation ($^\circ$) -->
+     <g transform="translate(48.191156 107.131765) rotate(-90)">
+      <text>
+       <tspan style="font-size:19.8px" x="0 11.687988 18.004517 29.692505 40.850098 52.624878 60.561523 66.878052 78.768555 91.488403 97.766357 118.19314" y="-0.796875">elevation ()</tspan>
+       <tspan style="font-size:13.86px" x="108.27501" y="-8.059375">∘</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="mfig3pass-line2d_8">
+    <path d="M 101.015058 77.365681 
+L 114.077642 72.562563 
+L 127.140225 67.516289 
+L 140.202809 62.232384 
+L 154.136231 56.353429 
+L 169.811332 49.490614 
+L 199.419855 36.205284 
+L 213.788696 29.921429 
+L 224.238763 25.59061 
+L 232.947152 22.223319 
+L 240.349283 19.589325 
+L 247.315994 17.34419 
+L 253.847286 15.479258 
+L 259.943159 13.97482 
+L 265.603612 12.801978 
+L 271.264064 11.861168 
+L 276.489098 11.210118 
+L 281.714131 10.776058 
+L 286.939165 10.564465 
+L 292.164198 10.57806 
+L 297.389232 10.816706 
+L 302.614265 11.277411 
+L 307.839299 11.954446 
+L 313.499751 12.922393 
+L 319.160204 14.121073 
+L 325.256077 15.651649 
+L 331.351949 17.408879 
+L 337.883241 19.515719 
+L 345.285372 22.145708 
+L 353.558341 25.336777 
+L 363.137569 29.287458 
+L 374.893894 34.391744 
+L 394.48777 43.187946 
+L 417.565001 53.486613 
+L 432.804682 60.037911 
+L 446.302685 65.603657 
+L 459.365269 70.752764 
+L 472.427852 75.659017 
+L 477.217466 77.396824 
+L 477.217466 77.396824 
+" clip-path="url(#mfig3pass-pd4682b154b)" style="fill: none; stroke: #009e73; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="mfig3pass-patch_4">
+    <path d="M 82.204938 80.739529 
+L 82.204938 7.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig3pass-patch_5">
+    <path d="M 82.204938 80.739529 
+L 496.027587 80.739529 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="mfig3pass-axes_2">
+   <g id="mfig3pass-patch_6">
+    <path d="M 82.204938 168.986965 
+L 496.027587 168.986965 
+L 496.027587 95.447435 
+L 82.204938 95.447435 
+L 82.204938 168.986965 
+z
+" style="fill: none"/>
+   </g>
+   <g id="mfig3pass-patch_7">
+    <path d="M 289.116262 168.986965 
+L 290.85794 168.986965 
+L 290.85794 95.447435 
+L 289.116262 95.447435 
+z
+" clip-path="url(#mfig3pass-p902f0bdeae)" style="fill: #e69f00; opacity: 0.85"/>
+   </g>
+   <g id="mfig3pass-matplotlib.axis_3">
+    <g id="mfig3pass-xtick_6">
+     <g id="mfig3pass-line2d_9">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="101.015058" y="168.986965" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="mfig3pass-xtick_7">
+     <g id="mfig3pass-line2d_10">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="188.098949" y="168.986965" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="mfig3pass-xtick_8">
+     <g id="mfig3pass-line2d_11">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="275.182839" y="168.986965" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="mfig3pass-xtick_9">
+     <g id="mfig3pass-line2d_12">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="362.26673" y="168.986965" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="mfig3pass-xtick_10">
+     <g id="mfig3pass-line2d_13">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="449.350621" y="168.986965" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="mfig3pass-matplotlib.axis_4">
+    <g id="mfig3pass-ytick_3">
+     <g id="mfig3pass-line2d_14">
+      <g>
+       <use xlink:href="#mfig3pass-mf7ae73ad3f" x="82.204938" y="151.203269" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig3pass-text_4">
+      <text style="font-size:17.6px; text-anchor: end" x="78.704938" y="157.889894" transform="rotate(-0 78.704938 157.889894)">−200</text>
+     </g>
+    </g>
+    <g id="mfig3pass-ytick_4">
+     <g id="mfig3pass-line2d_15">
+      <g>
+       <use xlink:href="#mfig3pass-mf7ae73ad3f" x="82.204938" y="132.251448" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig3pass-text_5">
+      <text style="font-size:17.6px; text-anchor: end" x="78.704938" y="138.938073" transform="rotate(-0 78.704938 138.938073)">0</text>
+     </g>
+    </g>
+    <g id="mfig3pass-ytick_5">
+     <g id="mfig3pass-line2d_16">
+      <g>
+       <use xlink:href="#mfig3pass-mf7ae73ad3f" x="82.204938" y="113.299627" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig3pass-text_6">
+      <text style="font-size:17.6px; text-anchor: end" x="78.704938" y="119.986252" transform="rotate(-0 78.704938 119.986252)">200</text>
+     </g>
+    </g>
+    <g id="mfig3pass-text_7">
+     <text style="font-size:19.8px; text-anchor: middle" x="22.244906" y="132.2172" transform="rotate(-90 22.244906 132.2172)">Doppler (kHz)</text>
+    </g>
+   </g>
+   <g id="mfig3pass-line2d_17">
+    <path d="M 101.015058 98.790141 
+L 104.062994 99.005218 
+L 121.044353 100.422205 
+L 136.719453 101.946222 
+L 151.523715 103.605637 
+L 165.457137 105.388613 
+L 178.95514 107.342871 
+L 191.582304 109.390426 
+L 204.209469 111.662435 
+L 216.836633 114.165245 
+L 229.463797 116.897043 
+L 242.52638 119.950724 
+L 256.895222 123.543986 
+L 273.876581 128.028778 
+L 327.868593 142.473562 
+L 341.802016 145.866511 
+L 354.8646 148.823026 
+L 367.491764 151.453669 
+L 380.118928 153.85323 
+L 392.746092 156.023822 
+L 405.808676 158.038119 
+L 419.306679 159.888846 
+L 433.240101 161.574612 
+L 448.044363 163.141895 
+L 464.154883 164.617516 
+L 477.217466 165.644259 
+L 477.217466 165.644259 
+" clip-path="url(#mfig3pass-p902f0bdeae)" style="fill: none; stroke: #2c6e9b; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="mfig3pass-line2d_18">
+    <path d="M 101.015058 128.905317 
+L 124.963128 129.104551 
+L 171.988429 129.656808 
+L 212.482438 130.353908 
+L 252.541028 131.269513 
+L 382.731445 134.458392 
+L 423.225454 135.064808 
+L 470.250755 135.538321 
+L 477.217466 135.590729 
+L 477.217466 135.590729 
+" clip-path="url(#mfig3pass-p902f0bdeae)" style="fill: none; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #0072b2; stroke-width: 1.1"/>
+   </g>
+   <g id="mfig3pass-line2d_19">
+    <path d="M 82.204938 132.251448 
+L 496.027587 132.251448 
+" clip-path="url(#mfig3pass-p902f0bdeae)" style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="mfig3pass-patch_8">
+    <path d="M 82.204938 168.986965 
+L 82.204938 95.447435 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig3pass-patch_9">
+    <path d="M 82.204938 168.986965 
+L 496.027587 168.986965 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig3pass-legend_1">
+    <g id="mfig3pass-line2d_20">
+     <path d="M 381.315305 110.999029 
+L 388.315305 110.999029 
+L 395.315305 110.999029 
+" style="fill: none; stroke: #2c6e9b; stroke-width: 1.1; stroke-linecap: square"/>
+    </g>
+    <g id="mfig3pass-text_8">
+     <text style="font-size:15.4px; text-anchor: start" x="400.915305" y="113.449029" transform="rotate(-0 400.915305 113.449029)">Ka, 20 GHz</text>
+    </g>
+    <g id="mfig3pass-line2d_21">
+     <path d="M 381.315305 129.403342 
+L 388.315305 129.403342 
+L 395.315305 129.403342 
+" style="fill: none; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #0072b2; stroke-width: 1.1"/>
+    </g>
+    <g id="mfig3pass-text_9">
+     <text style="font-size:15.4px; text-anchor: start" x="400.915305" y="131.853342" transform="rotate(-0 400.915305 131.853342)">S, 2 GHz</text>
+    </g>
+   </g>
+  </g>
+  <g id="mfig3pass-axes_3">
+   <g id="mfig3pass-patch_10">
+    <path d="M 82.204938 257.2344 
+L 496.027587 257.2344 
+L 496.027587 183.694871 
+L 82.204938 183.694871 
+L 82.204938 257.2344 
+z
+" style="fill: none"/>
+   </g>
+   <g id="mfig3pass-patch_11">
+    <path d="M 289.116262 257.2344 
+L 290.85794 257.2344 
+L 290.85794 183.694871 
+L 289.116262 183.694871 
+z
+" clip-path="url(#mfig3pass-pc5abd38cc6)" style="fill: #e69f00; opacity: 0.85"/>
+   </g>
+   <g id="mfig3pass-matplotlib.axis_5">
+    <g id="mfig3pass-xtick_11">
+     <g id="mfig3pass-line2d_22">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="101.015058" y="257.2344" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig3pass-text_10">
+      <text style="font-size:17.6px; text-anchor: middle" x="101.015058" y="274.10765" transform="rotate(-0 101.015058 274.10765)">0</text>
+     </g>
+    </g>
+    <g id="mfig3pass-xtick_12">
+     <g id="mfig3pass-line2d_23">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="188.098949" y="257.2344" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig3pass-text_11">
+      <text style="font-size:17.6px; text-anchor: middle" x="188.098949" y="274.10765" transform="rotate(-0 188.098949 274.10765)">50</text>
+     </g>
+    </g>
+    <g id="mfig3pass-xtick_13">
+     <g id="mfig3pass-line2d_24">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="275.182839" y="257.2344" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig3pass-text_12">
+      <text style="font-size:17.6px; text-anchor: middle" x="275.182839" y="274.10765" transform="rotate(-0 275.182839 274.10765)">100</text>
+     </g>
+    </g>
+    <g id="mfig3pass-xtick_14">
+     <g id="mfig3pass-line2d_25">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="362.26673" y="257.2344" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig3pass-text_13">
+      <text style="font-size:17.6px; text-anchor: middle" x="362.26673" y="274.10765" transform="rotate(-0 362.26673 274.10765)">150</text>
+     </g>
+    </g>
+    <g id="mfig3pass-xtick_15">
+     <g id="mfig3pass-line2d_26">
+      <g>
+       <use xlink:href="#mfig3pass-m1efb2a03b6" x="449.350621" y="257.2344" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig3pass-text_14">
+      <text style="font-size:17.6px; text-anchor: middle" x="449.350621" y="274.10765" transform="rotate(-0 449.350621 274.10765)">200</text>
+     </g>
+    </g>
+    <g id="mfig3pass-text_15">
+     <text style="font-size:19.8px; text-anchor: middle" x="289.116262" y="296.812806" transform="rotate(-0 289.116262 296.812806)">time within pass (s)</text>
+    </g>
+   </g>
+   <g id="mfig3pass-matplotlib.axis_6">
+    <g id="mfig3pass-ytick_6">
+     <g id="mfig3pass-line2d_27">
+      <g>
+       <use xlink:href="#mfig3pass-mf7ae73ad3f" x="82.204938" y="253.891694" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig3pass-text_16">
+      <text style="font-size:17.6px; text-anchor: end" x="78.704938" y="260.578319" transform="rotate(-0 78.704938 260.578319)">0</text>
+     </g>
+    </g>
+    <g id="mfig3pass-ytick_7">
+     <g id="mfig3pass-line2d_28">
+      <g>
+       <use xlink:href="#mfig3pass-mf7ae73ad3f" x="82.204938" y="217.956669" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig3pass-text_17">
+      <text style="font-size:17.6px; text-anchor: end" x="78.704938" y="224.643294" transform="rotate(-0 78.704938 224.643294)">2</text>
+     </g>
+    </g>
+    <g id="mfig3pass-text_18">
+     <text style="font-size:19.8px; text-anchor: middle" x="59.389156" y="220.464635" transform="rotate(-90 59.389156 220.464635)">path loss (dB)</text>
+    </g>
+   </g>
+   <g id="mfig3pass-line2d_29">
+    <path d="M 101.015058 187.037576 
+L 132.365259 202.093998 
+L 160.667523 215.609545 
+L 176.342623 222.852922 
+L 188.969788 228.448379 
+L 199.855274 233.030941 
+L 209.434502 236.828198 
+L 218.142891 240.049814 
+L 226.415861 242.874203 
+L 234.253411 245.309685 
+L 241.655542 247.371809 
+L 248.622253 249.082527 
+L 255.153545 250.469072 
+L 261.684836 251.63311 
+L 268.216128 252.564198 
+L 274.312001 253.215408 
+L 280.407873 253.65079 
+L 286.503745 253.866691 
+L 292.599618 253.861289 
+L 298.69549 253.634635 
+L 304.791362 253.188658 
+L 310.887235 252.527109 
+L 317.418527 251.585333 
+L 323.949818 250.411109 
+L 330.48111 249.014968 
+L 337.447821 247.294743 
+L 344.414533 245.351852 
+L 351.816663 243.062809 
+L 359.654214 240.410152 
+L 368.362603 237.217392 
+L 377.506411 233.624076 
+L 387.521059 229.450858 
+L 398.841964 224.492663 
+L 412.339967 218.331055 
+L 429.756746 210.119409 
+L 465.461141 192.960772 
+L 477.217466 187.338901 
+L 477.217466 187.338901 
+" clip-path="url(#mfig3pass-pc5abd38cc6)" style="fill: none; stroke: #555555; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="mfig3pass-patch_12">
+    <path d="M 82.204938 257.2344 
+L 82.204938 183.694871 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig3pass-patch_13">
+    <path d="M 82.204938 257.2344 
+L 496.027587 257.2344 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="mfig3pass-text_19">
+    <text style="font-size:15.4px; text-anchor: start" x="94.619617" y="204.221208" transform="rotate(-0 94.619617 204.221208)">vertical band: a 1 s transmission block</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="mfig3pass-pd4682b154b">
+   <rect x="82.204938" y="7.2" width="413.822649" height="73.539529"/>
+  </clipPath>
+  <clipPath id="mfig3pass-p902f0bdeae">
+   <rect x="82.204938" y="95.447435" width="413.822649" height="73.539529"/>
+  </clipPath>
+  <clipPath id="mfig3pass-pc5abd38cc6">
+   <rect x="82.204938" y="183.694871" width="413.822649" height="73.539529"/>
+  </clipPath>
+ </defs>
+</svg>

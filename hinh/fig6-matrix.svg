@@ -1,0 +1,802 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 580.603643 349.708716" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T23:00:25.772017</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="mfig6matrix-figure_1">
+  <g id="mfig6matrix-patch_1">
+   <path d="M 0 349.708716 
+L 580.603643 349.708716 
+L 580.603643 0 
+L 0 0 
+L 0 349.708716 
+z
+" style="fill: none"/>
+  </g>
+  <g id="mfig6matrix-axes_1">
+   <g id="mfig6matrix-patch_2">
+    <path d="M 209.384063 264.996 
+L 567.89541 264.996 
+L 567.89541 7.2 
+L 209.384063 7.2 
+L 209.384063 264.996 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#mfig6matrix-p6a1c61a0ea)">
+    <image xlink:href="data:image/png;base64,
+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" id="mfig6matrix-image6bdd2c67be" transform="scale(1 -1) translate(0 -258.092308)" x="209.384063" y="-6.903692" width="358.892308" height="258.092308"/>
+   </g>
+   <g id="mfig6matrix-matplotlib.axis_1">
+    <g id="mfig6matrix-xtick_1">
+     <g id="mfig6matrix-line2d_1">
+      <defs>
+       <path id="mfig6matrix-me49789a4ca" d="M 0 0 
+L 0 -3.5 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="216.278511" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_1">
+      <text style="font-size:12.32px" transform="translate(219.678061 292.0118) rotate(-90)">154</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_2">
+     <g id="mfig6matrix-line2d_2">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="230.067409" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_2">
+      <text style="font-size:12.32px" transform="translate(233.466959 292.0118) rotate(-90)">100</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_3">
+     <g id="mfig6matrix-line2d_3">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="243.856307" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_3">
+      <text style="font-size:12.32px" transform="translate(247.255857 284.1732) rotate(-90)">93</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_4">
+     <g id="mfig6matrix-line2d_4">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="257.645205" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_4">
+      <text style="font-size:12.32px" transform="translate(261.044755 292.0118) rotate(-90)">179</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_5">
+     <g id="mfig6matrix-line2d_5">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="271.434103" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_5">
+      <text style="font-size:12.32px" transform="translate(274.833653 292.0118) rotate(-90)">178</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_6">
+     <g id="mfig6matrix-line2d_6">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="285.223001" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_6">
+      <text style="font-size:12.32px" transform="translate(288.622551 292.0118) rotate(-90)">104</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_7">
+     <g id="mfig6matrix-line2d_7">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="299.011899" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_7">
+      <text style="font-size:12.32px" transform="translate(302.411449 292.0118) rotate(-90)">115</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_8">
+     <g id="mfig6matrix-line2d_8">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="312.800797" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_8">
+      <text style="font-size:12.32px" transform="translate(316.200347 292.0118) rotate(-90)">200</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_9">
+     <g id="mfig6matrix-line2d_9">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="326.589695" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_9">
+      <text style="font-size:12.32px" transform="translate(329.989245 292.0118) rotate(-90)">170</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_10">
+     <g id="mfig6matrix-line2d_10">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="340.378593" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_10">
+      <text style="font-size:12.32px" transform="translate(343.778143 292.0118) rotate(-90)">112</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_11">
+     <g id="mfig6matrix-line2d_11">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="354.167491" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_11">
+      <text style="font-size:12.32px" transform="translate(357.567041 292.0118) rotate(-90)">114</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_12">
+     <g id="mfig6matrix-line2d_12">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="367.956389" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_12">
+      <text style="font-size:12.32px" transform="translate(371.355939 284.1732) rotate(-90)">94</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_13">
+     <g id="mfig6matrix-line2d_13">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="381.745287" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_13">
+      <text style="font-size:12.32px" transform="translate(385.144837 292.0118) rotate(-90)">165</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_14">
+     <g id="mfig6matrix-line2d_14">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="395.534185" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_14">
+      <text style="font-size:12.32px" transform="translate(398.933735 284.1732) rotate(-90)">81</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_15">
+     <g id="mfig6matrix-line2d_15">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="409.323083" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_15">
+      <text style="font-size:12.32px" transform="translate(412.722633 292.0118) rotate(-90)">161</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_16">
+     <g id="mfig6matrix-line2d_16">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="423.111981" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_16">
+      <text style="font-size:12.32px" transform="translate(426.511531 292.0118) rotate(-90)">102</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_17">
+     <g id="mfig6matrix-line2d_17">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="436.900879" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_17">
+      <text style="font-size:12.32px" transform="translate(440.300429 292.0118) rotate(-90)">203</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_18">
+     <g id="mfig6matrix-line2d_18">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="450.689777" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_18">
+      <text style="font-size:12.32px" transform="translate(454.089327 292.0118) rotate(-90)">116</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_19">
+     <g id="mfig6matrix-line2d_19">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="464.478675" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_19">
+      <text style="font-size:12.32px" transform="translate(467.878225 292.0118) rotate(-90)">118</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_20">
+     <g id="mfig6matrix-line2d_20">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="478.267573" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_20">
+      <text style="font-size:12.32px" transform="translate(481.667123 292.0118) rotate(-90)">180</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_21">
+     <g id="mfig6matrix-line2d_21">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="492.056471" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_21">
+      <text style="font-size:12.32px" transform="translate(495.456021 292.0118) rotate(-90)">190</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_22">
+     <g id="mfig6matrix-line2d_22">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="505.845369" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_22">
+      <text style="font-size:12.32px" transform="translate(509.244919 292.0118) rotate(-90)">191</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_23">
+     <g id="mfig6matrix-line2d_23">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="519.634267" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_23">
+      <text style="font-size:12.32px" transform="translate(523.033817 292.0118) rotate(-90)">113</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_24">
+     <g id="mfig6matrix-line2d_24">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="533.423165" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_24">
+      <text style="font-size:12.32px" transform="translate(536.822715 292.0118) rotate(-90)">117</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_25">
+     <g id="mfig6matrix-line2d_25">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="547.212063" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_25">
+      <text style="font-size:12.32px" transform="translate(550.611613 292.0118) rotate(-90)">186</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_26">
+     <g id="mfig6matrix-line2d_26">
+      <g>
+       <use xlink:href="#mfig6matrix-me49789a4ca" x="561.000961" y="264.996" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_26">
+      <text style="font-size:12.32px" transform="translate(564.400511 284.1732) rotate(-90)">95</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-xtick_27">
+     <g id="mfig6matrix-line2d_27">
+      <path d="M 209.384063 264.996 
+L 209.384063 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_28"/>
+    </g>
+    <g id="mfig6matrix-xtick_28">
+     <g id="mfig6matrix-line2d_29">
+      <path d="M 223.17296 264.996 
+L 223.17296 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_30"/>
+    </g>
+    <g id="mfig6matrix-xtick_29">
+     <g id="mfig6matrix-line2d_31">
+      <path d="M 236.961858 264.996 
+L 236.961858 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_32"/>
+    </g>
+    <g id="mfig6matrix-xtick_30">
+     <g id="mfig6matrix-line2d_33">
+      <path d="M 250.750756 264.996 
+L 250.750756 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_34"/>
+    </g>
+    <g id="mfig6matrix-xtick_31">
+     <g id="mfig6matrix-line2d_35">
+      <path d="M 264.539654 264.996 
+L 264.539654 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_36"/>
+    </g>
+    <g id="mfig6matrix-xtick_32">
+     <g id="mfig6matrix-line2d_37">
+      <path d="M 278.328552 264.996 
+L 278.328552 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_38"/>
+    </g>
+    <g id="mfig6matrix-xtick_33">
+     <g id="mfig6matrix-line2d_39">
+      <path d="M 292.11745 264.996 
+L 292.11745 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_40"/>
+    </g>
+    <g id="mfig6matrix-xtick_34">
+     <g id="mfig6matrix-line2d_41">
+      <path d="M 305.906348 264.996 
+L 305.906348 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_42"/>
+    </g>
+    <g id="mfig6matrix-xtick_35">
+     <g id="mfig6matrix-line2d_43">
+      <path d="M 319.695246 264.996 
+L 319.695246 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_44"/>
+    </g>
+    <g id="mfig6matrix-xtick_36">
+     <g id="mfig6matrix-line2d_45">
+      <path d="M 333.484144 264.996 
+L 333.484144 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_46"/>
+    </g>
+    <g id="mfig6matrix-xtick_37">
+     <g id="mfig6matrix-line2d_47">
+      <path d="M 347.273042 264.996 
+L 347.273042 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_48"/>
+    </g>
+    <g id="mfig6matrix-xtick_38">
+     <g id="mfig6matrix-line2d_49">
+      <path d="M 361.06194 264.996 
+L 361.06194 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_50"/>
+    </g>
+    <g id="mfig6matrix-xtick_39">
+     <g id="mfig6matrix-line2d_51">
+      <path d="M 374.850838 264.996 
+L 374.850838 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_52"/>
+    </g>
+    <g id="mfig6matrix-xtick_40">
+     <g id="mfig6matrix-line2d_53">
+      <path d="M 388.639736 264.996 
+L 388.639736 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_54"/>
+    </g>
+    <g id="mfig6matrix-xtick_41">
+     <g id="mfig6matrix-line2d_55">
+      <path d="M 402.428634 264.996 
+L 402.428634 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_56"/>
+    </g>
+    <g id="mfig6matrix-xtick_42">
+     <g id="mfig6matrix-line2d_57">
+      <path d="M 416.217532 264.996 
+L 416.217532 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_58"/>
+    </g>
+    <g id="mfig6matrix-xtick_43">
+     <g id="mfig6matrix-line2d_59">
+      <path d="M 430.00643 264.996 
+L 430.00643 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_60"/>
+    </g>
+    <g id="mfig6matrix-xtick_44">
+     <g id="mfig6matrix-line2d_61">
+      <path d="M 443.795328 264.996 
+L 443.795328 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_62"/>
+    </g>
+    <g id="mfig6matrix-xtick_45">
+     <g id="mfig6matrix-line2d_63">
+      <path d="M 457.584226 264.996 
+L 457.584226 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_64"/>
+    </g>
+    <g id="mfig6matrix-xtick_46">
+     <g id="mfig6matrix-line2d_65">
+      <path d="M 471.373124 264.996 
+L 471.373124 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_66"/>
+    </g>
+    <g id="mfig6matrix-xtick_47">
+     <g id="mfig6matrix-line2d_67">
+      <path d="M 485.162022 264.996 
+L 485.162022 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_68"/>
+    </g>
+    <g id="mfig6matrix-xtick_48">
+     <g id="mfig6matrix-line2d_69">
+      <path d="M 498.95092 264.996 
+L 498.95092 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_70"/>
+    </g>
+    <g id="mfig6matrix-xtick_49">
+     <g id="mfig6matrix-line2d_71">
+      <path d="M 512.739818 264.996 
+L 512.739818 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_72"/>
+    </g>
+    <g id="mfig6matrix-xtick_50">
+     <g id="mfig6matrix-line2d_73">
+      <path d="M 526.528716 264.996 
+L 526.528716 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_74"/>
+    </g>
+    <g id="mfig6matrix-xtick_51">
+     <g id="mfig6matrix-line2d_75">
+      <path d="M 540.317614 264.996 
+L 540.317614 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_76"/>
+    </g>
+    <g id="mfig6matrix-xtick_52">
+     <g id="mfig6matrix-line2d_77">
+      <path d="M 554.106512 264.996 
+L 554.106512 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_78"/>
+    </g>
+    <g id="mfig6matrix-xtick_53">
+     <g id="mfig6matrix-line2d_79">
+      <path d="M 567.89541 264.996 
+L 567.89541 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_80"/>
+    </g>
+    <g id="mfig6matrix-text_27">
+     <text style="font-size:19.8px; text-anchor: middle" x="388.639736" y="309.056706" transform="rotate(-0 388.639736 309.056706)">work, ordered by coverage</text>
+    </g>
+   </g>
+   <g id="mfig6matrix-matplotlib.axis_2">
+    <g id="mfig6matrix-ytick_1">
+     <g id="mfig6matrix-line2d_81">
+      <defs>
+       <path id="mfig6matrix-m89dcbd0ee9" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfig6matrix-m89dcbd0ee9" x="209.384063" y="17.9415" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_28">
+      <text style="font-size:15.4px; text-anchor: end" x="205.884063" y="23.792297" transform="rotate(-0 205.884063 23.792297)">AWGN channel</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-ytick_2">
+     <g id="mfig6matrix-line2d_82">
+      <g>
+       <use xlink:href="#mfig6matrix-m89dcbd0ee9" x="209.384063" y="39.4245" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_29">
+      <text style="font-size:15.4px; text-anchor: end" x="205.884063" y="45.275297" transform="rotate(-0 205.884063 45.275297)">Doppler shift</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-ytick_3">
+     <g id="mfig6matrix-line2d_83">
+      <g>
+       <use xlink:href="#mfig6matrix-m89dcbd0ee9" x="209.384063" y="60.9075" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_30">
+      <text style="font-size:15.4px; text-anchor: end" x="205.884063" y="66.758297" transform="rotate(-0 205.884063 66.758297)">Elevation-dependent loss</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-ytick_4">
+     <g id="mfig6matrix-line2d_84">
+      <g>
+       <use xlink:href="#mfig6matrix-m89dcbd0ee9" x="209.384063" y="82.3905" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_31">
+      <text style="font-size:15.4px; text-anchor: end" x="205.884063" y="88.241297" transform="rotate(-0 205.884063 88.241297)">Propagation delay</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-ytick_5">
+     <g id="mfig6matrix-line2d_85">
+      <g>
+       <use xlink:href="#mfig6matrix-m89dcbd0ee9" x="209.384063" y="103.8735" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_32">
+      <text style="font-size:15.4px; text-anchor: end" x="205.884063" y="109.724297" transform="rotate(-0 205.884063 109.724297)">Statistical fading</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-ytick_6">
+     <g id="mfig6matrix-line2d_86">
+      <g>
+       <use xlink:href="#mfig6matrix-m89dcbd0ee9" x="209.384063" y="125.3565" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_33">
+      <text style="font-size:15.4px; text-anchor: end" x="205.884063" y="131.207297" transform="rotate(-0 205.884063 131.207297)">SNR sweep / mismatch</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-ytick_7">
+     <g id="mfig6matrix-line2d_87">
+      <g>
+       <use xlink:href="#mfig6matrix-m89dcbd0ee9" x="209.384063" y="146.8395" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_34">
+      <text style="font-size:15.4px; text-anchor: end" x="205.884063" y="152.690297" transform="rotate(-0 205.884063 152.690297)">Atmospheric attenuation</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-ytick_8">
+     <g id="mfig6matrix-line2d_88">
+      <g>
+       <use xlink:href="#mfig6matrix-m89dcbd0ee9" x="209.384063" y="168.3225" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_35">
+      <text style="font-size:15.4px; text-anchor: end" x="205.884063" y="174.173297" transform="rotate(-0 205.884063 174.173297)">Standardised NTN model</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-ytick_9">
+     <g id="mfig6matrix-line2d_89">
+      <g>
+       <use xlink:href="#mfig6matrix-m89dcbd0ee9" x="209.384063" y="189.8055" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_36">
+      <text style="font-size:15.4px; text-anchor: end" x="205.884063" y="195.656297" transform="rotate(-0 205.884063 195.656297)">Finite visibility window</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-ytick_10">
+     <g id="mfig6matrix-line2d_90">
+      <g>
+       <use xlink:href="#mfig6matrix-m89dcbd0ee9" x="209.384063" y="211.2885" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_37">
+      <text style="font-size:15.4px; text-anchor: end" x="205.884063" y="217.139297" transform="rotate(-0 205.884063 217.139297)">On-board compute limit</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-ytick_11">
+     <g id="mfig6matrix-line2d_91">
+      <g>
+       <use xlink:href="#mfig6matrix-m89dcbd0ee9" x="209.384063" y="232.7715" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_38">
+      <text style="font-size:15.4px; text-anchor: end" x="205.884063" y="238.622297" transform="rotate(-0 205.884063 238.622297)">Time-varying Doppler</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-ytick_12">
+     <g id="mfig6matrix-line2d_92">
+      <g>
+       <use xlink:href="#mfig6matrix-m89dcbd0ee9" x="209.384063" y="254.2545" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="mfig6matrix-text_39">
+      <text style="font-size:15.4px; text-anchor: end" x="205.884063" y="260.105297" transform="rotate(-0 205.884063 260.105297)">Real orbital trace</text>
+     </g>
+    </g>
+    <g id="mfig6matrix-ytick_13">
+     <g id="mfig6matrix-line2d_93">
+      <path d="M 209.384063 7.2 
+L 567.89541 7.2 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_94"/>
+    </g>
+    <g id="mfig6matrix-ytick_14">
+     <g id="mfig6matrix-line2d_95">
+      <path d="M 209.384063 28.683 
+L 567.89541 28.683 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_96"/>
+    </g>
+    <g id="mfig6matrix-ytick_15">
+     <g id="mfig6matrix-line2d_97">
+      <path d="M 209.384063 50.166 
+L 567.89541 50.166 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_98"/>
+    </g>
+    <g id="mfig6matrix-ytick_16">
+     <g id="mfig6matrix-line2d_99">
+      <path d="M 209.384063 71.649 
+L 567.89541 71.649 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_100"/>
+    </g>
+    <g id="mfig6matrix-ytick_17">
+     <g id="mfig6matrix-line2d_101">
+      <path d="M 209.384063 93.132 
+L 567.89541 93.132 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_102"/>
+    </g>
+    <g id="mfig6matrix-ytick_18">
+     <g id="mfig6matrix-line2d_103">
+      <path d="M 209.384063 114.615 
+L 567.89541 114.615 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_104"/>
+    </g>
+    <g id="mfig6matrix-ytick_19">
+     <g id="mfig6matrix-line2d_105">
+      <path d="M 209.384063 136.098 
+L 567.89541 136.098 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_106"/>
+    </g>
+    <g id="mfig6matrix-ytick_20">
+     <g id="mfig6matrix-line2d_107">
+      <path d="M 209.384063 157.581 
+L 567.89541 157.581 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_108"/>
+    </g>
+    <g id="mfig6matrix-ytick_21">
+     <g id="mfig6matrix-line2d_109">
+      <path d="M 209.384063 179.064 
+L 567.89541 179.064 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_110"/>
+    </g>
+    <g id="mfig6matrix-ytick_22">
+     <g id="mfig6matrix-line2d_111">
+      <path d="M 209.384063 200.547 
+L 567.89541 200.547 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_112"/>
+    </g>
+    <g id="mfig6matrix-ytick_23">
+     <g id="mfig6matrix-line2d_113">
+      <path d="M 209.384063 222.03 
+L 567.89541 222.03 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_114"/>
+    </g>
+    <g id="mfig6matrix-ytick_24">
+     <g id="mfig6matrix-line2d_115">
+      <path d="M 209.384063 243.513 
+L 567.89541 243.513 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_116"/>
+    </g>
+    <g id="mfig6matrix-ytick_25">
+     <g id="mfig6matrix-line2d_117">
+      <path d="M 209.384063 264.996 
+L 567.89541 264.996 
+" clip-path="url(#mfig6matrix-p6a1c61a0ea)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="mfig6matrix-line2d_118"/>
+    </g>
+   </g>
+   <g id="mfig6matrix-legend_1">
+    <g id="mfig6matrix-patch_3">
+     <path d="M 206.87583 335.842622 
+L 221.87583 335.842622 
+L 221.87583 330.592622 
+L 206.87583 330.592622 
+z
+" style="fill: #eeeeee; stroke: #eeeeee; stroke-linejoin: miter"/>
+    </g>
+    <g id="mfig6matrix-text_40">
+     <text style="font-size:16.5px; text-anchor: start" x="227.87583" y="335.842622" transform="rotate(-0 227.87583 335.842622)">absent</text>
+    </g>
+    <g id="mfig6matrix-patch_4">
+     <path d="M 298.767002 335.842622 
+L 313.767002 335.842622 
+L 313.767002 330.592622 
+L 298.767002 330.592622 
+z
+" style="fill: #555555; stroke: #555555; stroke-linejoin: miter"/>
+    </g>
+    <g id="mfig6matrix-text_41">
+     <text style="font-size:16.5px; text-anchor: start" x="319.767002" y="335.842622" transform="rotate(-0 319.767002 335.842622)">framing only</text>
+    </g>
+    <g id="mfig6matrix-patch_5">
+     <path d="M 441.117236 335.842622 
+L 456.117236 335.842622 
+L 456.117236 330.592622 
+L 441.117236 330.592622 
+z
+" style="fill: #2c6e9b; stroke: #2c6e9b; stroke-linejoin: miter"/>
+    </g>
+    <g id="mfig6matrix-text_42">
+     <text style="font-size:16.5px; text-anchor: start" x="462.117236" y="335.842622" transform="rotate(-0 462.117236 335.842622)">in evaluation</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="mfig6matrix-p6a1c61a0ea">
+   <rect x="209.384063" y="7.2" width="358.511348" height="257.796"/>
+  </clipPath>
+ </defs>
+</svg>
